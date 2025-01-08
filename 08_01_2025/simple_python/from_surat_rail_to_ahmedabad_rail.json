@@ -1,0 +1,3054 @@
+{
+    "exclusiveRoute": false,
+    "request": {
+        "mysafetyKitAvailable": false,
+        "rideNowDeadEndRetry": false,
+        "source_city": "STV",
+        "destination_city": "AMD",
+        "departure_date": "10-01-2025",
+        "trip_type": "OW",
+        "pickup_time": "10:00",
+        "source_location": {
+            "airport": false,
+            "address": "Surat station, Railway Station Circle, Railway Station Area, Varachha, Surat, Gujarat, India",
+            "latitude": 21.2050439,
+            "longitude": 72.8406794,
+            "pincode": "395003",
+            "place_id": "ChIJL5JKprJP4DsRh4X2cdj7xfU",
+            "is_city": false,
+            "city": "Surat",
+            "city_code": null,
+            "google_city": "Surat",
+            "state": "Gujarat",
+            "is_airport": false,
+            "main_text": null,
+            "mainText": null,
+            "secondary_text": null,
+            "country": "India",
+            "country_code": "IN"
+        },
+        "destination_location": {
+            "airport": false,
+            "address": "Ahmedabad Railway Station, Kalupur Railway Station Road, Sakar Bazzar, Kalupur, Ahmedabad, Gujarat, India",
+            "latitude": 23.0264164,
+            "longitude": 72.6011484,
+            "pincode": "380002",
+            "place_id": "ChIJHVLRKDKEXjkRfnKeB6HNMhg",
+            "is_city": false,
+            "city": "Ahmedabad",
+            "city_code": null,
+            "google_city": "Ahmedabad",
+            "state": "Gujarat",
+            "is_airport": false,
+            "main_text": null,
+            "mainText": null,
+            "secondary_text": null,
+            "country": "India",
+            "country_code": "IN"
+        },
+        "is_intracity_search": false,
+        "profile_type": "PERSONAL",
+        "airport_cabs_enabled": false,
+        "hr_cabs_disabled": false,
+        "at_cross_sell_request": false,
+        "show_kit_enabled_cabs": true,
+        "is_mysafety_kit_available": false,
+        "source_city_name": "Surat",
+        "destination_city_name": "Ahmedabad",
+        "is_intercity_2": true,
+        "locus_info": {
+            "source_locus_code": "CTSTV",
+            "source_locus_type": "CITY",
+            "source_locus_city_code": "CTSTV",
+            "destination_locus_code": "CTAMD",
+            "destination_locus_type": "CITY",
+            "destination_locus_city_code": "CTAMD"
+        },
+        "is_other_cabs_enabled": true,
+        "fetch_package_list": false,
+        "pokus_flags": [
+            {
+                "key": "OS_Listing_Packages",
+                "flag": true,
+                "value": null
+            },
+            {
+                "key": "Listing_Assisted_Widget_web",
+                "flag": false,
+                "value": null
+            },
+            {
+                "key": "review_assisted_widget_dweb",
+                "flag": true,
+                "value": null
+            },
+            {
+                "key": "Mybiz_Assured_Cab_dweb",
+                "flag": true,
+                "value": null
+            },
+            {
+                "key": "Listing_group",
+                "flag": false,
+                "value": null
+            }
+        ],
+        "is_ride_now_dead_end_retry": false,
+        "stopovers": [],
+        "time_offset": 19800,
+        "international_trip": false,
+        "timezone_id": "Asia/Kolkata",
+        "source_name": "Surat station..",
+        "destination_name": "Ahmedabad Railw.."
+    },
+    "response": {
+        "cab_list": [
+            {
+                "inCabsKey": "60f099e30df2c400245f2fab|5dd3eaaab2eaf300bc15fa62",
+                "category_id": "Ryde_HATCHBACK_GENERIC_CNG_NONE_NONE_SAVER",
+                "package": "SAVER",
+                "safety_variant": "NONE",
+                "vehicle_model_type": "GENERIC",
+                "type": "HATCHBACK",
+                "vendor_id": 4,
+                "supplier_id": "5dd3eaaab2eaf300bc15fa62",
+                "supplier_name": "Savaari",
+                "vendor_name": "Ryde",
+                "vehicle_image": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/Cab_Images/hatchback.png",
+                "vehicle_model": "Indica, Swift",
+                "utilities": [
+                    "Hatchback",
+                    "4 SEATER",
+                    "1 BAG"
+                ],
+                "cab_utilities": [
+                    {
+                        "icon": null,
+                        "text": "Hatchback",
+                        "on_icon_click_data": null
+                    },
+                    {
+                        "icon": null,
+                        "text": "AC",
+                        "on_icon_click_data": null
+                    },
+                    {
+                        "icon": null,
+                        "text": "4 Seats",
+                        "on_icon_click_data": null
+                    },
+                    {
+                        "icon": null,
+                        "text": "255 kms included",
+                        "on_icon_click_data": null
+                    }
+                ],
+                "rp_placeholder_info": null,
+                "fare_details": {
+                    "display_properties": [
+                        {
+                            "Base Fare": 2960
+                        },
+                        {
+                            "Driver Charges": 280
+                        },
+                        {
+                            "Convenience Fee": 95
+                        },
+                        {
+                            "Total": 3497
+                        }
+                    ]
+                },
+                "fare_breakup_list": [
+                    {
+                        "displayName": "Base Fare",
+                        "value": 2960,
+                        "fareType": "PAYABLE",
+                        "displayCode": null
+                    },
+                    {
+                        "displayName": "Driver Charges",
+                        "value": 280,
+                        "fareType": "PAYABLE",
+                        "displayCode": null
+                    },
+                    {
+                        "displayName": "Taxes & Fees",
+                        "value": 257,
+                        "fareType": "PAYABLE",
+                        "displayCode": null
+                    },
+                    {
+                        "displayName": "Total",
+                        "value": 3497,
+                        "fareType": "TOTAL",
+                        "displayCode": null
+                    }
+                ],
+                "important_info": null,
+                "journey_detail": {
+                    "min_tat_hrs": null,
+                    "min_tat_hrs_v2": null,
+                    "approx_extra_fare": null,
+                    "approx_extra_kms": null,
+                    "overall_trip_distance_in_kms": 255.0,
+                    "overall_trip_duration_in_minutes": 282.0,
+                    "oneway_distance_in_kms": 255.0,
+                    "oneway_duration_in_minutes": 282.0
+                },
+                "cab_fare_detail": {
+                    "approxDistance": 255.0,
+                    "total_amount": 3497.0,
+                    "markup_amount": 0.0,
+                    "markup_percent": 0,
+                    "cash_to_driver": false,
+                    "per_km_charge": 13.5,
+                    "per_km_extra_charge": 13.5,
+                    "included_kms": 255.0,
+                    "is_full_payment_route": false,
+                    "payment_message": "Make part payment now",
+                    "full_payment_message": "Make full payment now",
+                    "partial_payable_amount": 776,
+                    "cancellation_penalty": 3497,
+                    "full_payable_amount": 3497,
+                    "encrypted_booking_amount": "2558",
+                    "special_route_discount_percent": 20.01763668430335,
+                    "is_all_inclusive": true,
+                    "is_assured": false,
+                    "is_airport_prime": false,
+                    "is_out_of_corp_policy": false,
+                    "is_refundable": true,
+                    "is_special_package": false,
+                    "is_bnpl": false,
+                    "coupon_code": "",
+                    "coupon_amount": 0.0,
+                    "wallet_discount_enabled": true,
+                    "min_km_per_day": 255.0,
+                    "base_fare": 2960.0,
+                    "driver_charge": 280.0,
+                    "total_days_cahrged": 1.0,
+                    "is_instant_cab": false,
+                    "part_payment_rest_amount_message": "Pay rest to the driver",
+                    "strike_off_discount": 510.0,
+                    "seller_discount": 0.0,
+                    "strike_off_discount_text": "13% off",
+                    "strike_off_discount_textV2": "15% off",
+                    "strike_price": 3470,
+                    "highlighted_price": 2960,
+                    "tolls_and_taxes_text": "+ ₹537 (Taxes & Charges)",
+                    "bs_partial_payment_label": "Pay ₹776, rest later",
+                    "bs_full_payment_label": "₹3497 Total",
+                    "bs_inclusive_label": "Total Payable Amount",
+                    "is_zero_payment_allowed": false
+                },
+                "ratings_display": {
+                    "rating_show": true,
+                    "overall_rating": 4.6,
+                    "cab_condition": 0.0,
+                    "driver_behavior": 0.0,
+                    "no_of_reviews": 0,
+                    "no_of_ratings": 2546,
+                    "description": "Based on *2546 aggregated ratings* of the supplier for this vehicle category"
+                },
+                "multi_vendor_tag": "RECOMMENDED",
+                "alternate_cabs_count": 0,
+                "display_properties": {
+                    "inclusion_list": [
+                        {
+                            "sub_title": "",
+                            "title": "Parking Charges",
+                            "description": ""
+                        },
+                        {
+                            "sub_title": "",
+                            "title": "State Tax",
+                            "description": ""
+                        },
+                        {
+                            "sub_title": "",
+                            "title": "Toll Charges",
+                            "description": ""
+                        },
+                        {
+                            "sub_title": "",
+                            "title": "255 Kms",
+                            "description": ""
+                        },
+                        {
+                            "sub_title": "",
+                            "title": "Driver Allowance",
+                            "description": ""
+                        },
+                        {
+                            "sub_title": "",
+                            "title": "Only One Pickup and Drop",
+                            "description": "Only one included"
+                        }
+                    ],
+                    "exclusion_list": [
+                        {
+                            "Fare beyond 255 Kms": "Rs 13.5/Km"
+                        }
+                    ],
+                    "exclusion_list_v2": [
+                        {
+                            "sub_title": "",
+                            "approx_value": "0",
+                            "title": "Fare beyond 255 Kms",
+                            "value": "Rs 13.5/Km"
+                        }
+                    ]
+                },
+                "inclusive_message": "Onwards",
+                "similar_message": "or similar",
+                "cab_driver_details": {
+                    "type": "REGULAR",
+                    "message": "Cab operator will be assigned on booking completion. Cab and driver details will be shared up to 30 mins prior to departure.",
+                    "callout_info": {
+                        "title": "Some points to note for CNG vehicles before your travel:",
+                        "callout_messages": [
+                            "On longer journeys refill breaks are required which *typically last 30+ minutes* because of *fewer stations* and *longer queues*.",
+                            "Diesel cabs have *stronger ACs as compared to CNG vehicles*."
+                        ]
+                    }
+                },
+                "my_safety": false,
+                "my_safety_tag": "Safe & Hygienic Cabs",
+                "included_km_string": "255 Kms",
+                "facilities": {
+                    "AC": "AC",
+                    "BAGS": "1 Bag",
+                    "SEATS": "4 Seater"
+                },
+                "detailed_ratings": {
+                    "Driver Behaviour": "0.0",
+                    "Cab Condition": "0.0"
+                },
+                "cab_type": "Hatchback",
+                "id": "HATCHBACK_4_3497.0",
+                "best_price_guarantee_details": null,
+                "fuel_type": "CNG",
+                "luggage_info": null,
+                "fuel_info": "CNG refill breaks typically last 30+ minutes because of fewer stations and longer queues.",
+                "my_safety_accessories": null,
+                "my_safety_accessories_details": null,
+                "is_mysafety_kit_available": false,
+                "is_mysafety_shield_available": false,
+                "is_best_price_guaranteed": false,
+                "trip_guarantee_available": false,
+                "package_data": {
+                    "common_data": {
+                        "title": "Most Booked Cabs",
+                        "description": null,
+                        "attributes": null,
+                        "collapse_message": null,
+                        "expand_message": null
+                    },
+                    "packages": [
+                        {
+                            "category_id": "Ryde_HATCHBACK_GENERIC_CNG_NONE_NONE_SAVER",
+                            "type": "HATCHBACK",
+                            "is_my_safety": false,
+                            "is_safety_shield_available": false,
+                            "is_mysafety_kit_available": false,
+                            "is_best_price_guaranteed": false,
+                            "is_trip_guarantee_available": false,
+                            "package": "SAVER",
+                            "vendor": "Ryde",
+                            "fuel_type": "CNG",
+                            "safety_variant": "NONE",
+                            "vehicle_model_type": "GENERIC",
+                            "title": "Saver Fare",
+                            "subtitle": "255 kms free | After 255km @ ₹13.5/Km",
+                            "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/standard_package_icon.png",
+                            "vehicle_model": "Indica, Swift",
+                            "inclusive_message": "inc. of tolls and taxes",
+                            "persuasions": [
+                                {
+                                    "text": "*₹13.5/km* after *255 kms*",
+                                    "highlighted_text": null,
+                                    "highlight_color": null,
+                                    "tag": null,
+                                    "title": "Extra km fare",
+                                    "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/location_blue.png"
+                                },
+                                {
+                                    "text": "*CNG* with refill breaks",
+                                    "highlighted_text": null,
+                                    "highlight_color": null,
+                                    "tag": null,
+                                    "title": "Fuel Type",
+                                    "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/fuel_blue.png"
+                                },
+                                {
+                                    "text": " till 1 hour of departure",
+                                    "highlighted_text": "*Free*",
+                                    "highlight_color": "#1A7971",
+                                    "tag": null,
+                                    "title": "Cancellation",
+                                    "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/cancelInfo.png"
+                                }
+                            ],
+                            "desktop_claim_persuasions": [],
+                            "cab_fare_detail": {
+                                "airportPrime": false,
+                                "bnpl": false,
+                                "assured": false,
+                                "instantCab": false,
+                                "allInclusive": true,
+                                "outOfCorpPolicy": false,
+                                "refundable": true,
+                                "specialPackage": false,
+                                "total_amount": 3497.0,
+                                "markup_amount": 0.0,
+                                "markup_percent": 0,
+                                "cash_to_driver": false,
+                                "per_km_charge": 13.5,
+                                "per_km_extra_charge": 13.5,
+                                "included_kms": 255.0,
+                                "is_full_payment_route": false,
+                                "payment_message": "Make part payment now",
+                                "full_payment_message": "Make full payment now",
+                                "partial_payable_amount": 776,
+                                "full_payable_amount": 3497,
+                                "special_route_discount_percent": 20.01763668430335,
+                                "cancellation_penalty": 3497,
+                                "part_payment_persuasion": null,
+                                "is_all_inclusive": true,
+                                "is_assured": false,
+                                "is_airport_prime": false,
+                                "is_out_of_corp_policy": false,
+                                "is_refundable": true,
+                                "availability": null,
+                                "is_special_package": false,
+                                "is_bnpl": false,
+                                "coupon_code": "",
+                                "coupon_amount": 0.0,
+                                "coupon_percent": null,
+                                "wallet_discount_enabled": true,
+                                "min_km_per_day": 255.0,
+                                "base_fare": 2960,
+                                "driver_charge": 280.0,
+                                "total_days_cahrged": 1.0,
+                                "is_instant_cab": false,
+                                "part_payment_rest_amount_message": "Pay rest to the driver",
+                                "strike_off_discount": 510.0,
+                                "seller_discount": 0.0,
+                                "strike_off_discount_text": "13% off",
+                                "out_of_policy_reasons": null,
+                                "extra_time_rate": null,
+                                "strike_off_discount_textV2": "15% off",
+                                "strike_price": 3470,
+                                "highlighted_price": 2960,
+                                "tolls_and_taxes_text": "+ ₹537 (Taxes & Charges)"
+                            },
+                            "ratings_display": {
+                                "rating_show": true,
+                                "overall_rating": 4.6,
+                                "cab_condition": 0.0,
+                                "driver_behavior": 0.0,
+                                "no_of_reviews": 0,
+                                "no_of_ratings": 2546,
+                                "description": "Based on *2546 aggregated ratings* of the supplier for this vehicle category"
+                            },
+                            "cab_description": "Lowest priced car",
+                            "dynamic_persuasion": null,
+                            "claim_persuasions_keys": null,
+                            "package_title": [
+                                {
+                                    "title_word": "Saver",
+                                    "superscript_text": null
+                                },
+                                {
+                                    "title_word": "Fare",
+                                    "superscript_text": null
+                                }
+                            ]
+                        },
+                        {
+                            "category_id": "Ryde_HATCHBACK_GENERIC_DIESEL_NONE_NONE_STANDARD",
+                            "type": "HATCHBACK",
+                            "is_my_safety": false,
+                            "is_safety_shield_available": false,
+                            "is_mysafety_kit_available": false,
+                            "is_best_price_guaranteed": false,
+                            "is_trip_guarantee_available": false,
+                            "package": "STANDARD",
+                            "vendor": "Ryde",
+                            "fuel_type": "DIESEL",
+                            "safety_variant": "NONE",
+                            "vehicle_model_type": "GENERIC",
+                            "title": "Standard Fare",
+                            "subtitle": "255 kms free | After 255km @ ₹20.5/Km",
+                            "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/standard_package_icon.png",
+                            "vehicle_model": "Indica, Swift",
+                            "inclusive_message": "inc. of tolls and taxes",
+                            "persuasions": [
+                                {
+                                    "text": "*₹20.5/km* after *255 kms*",
+                                    "highlighted_text": null,
+                                    "highlight_color": null,
+                                    "tag": null,
+                                    "title": "Extra km fare",
+                                    "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/location_blue.png"
+                                },
+                                {
+                                    "text": "*Diesel*",
+                                    "highlighted_text": null,
+                                    "highlight_color": null,
+                                    "tag": null,
+                                    "title": "Fuel Type",
+                                    "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/fuel_blue.png"
+                                },
+                                {
+                                    "text": " till 1 hour of departure",
+                                    "highlighted_text": "*Free*",
+                                    "highlight_color": "#1A7971",
+                                    "tag": null,
+                                    "title": "Cancellation",
+                                    "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/cancelInfo.png"
+                                }
+                            ],
+                            "desktop_claim_persuasions": [],
+                            "cab_fare_detail": {
+                                "airportPrime": false,
+                                "bnpl": false,
+                                "assured": false,
+                                "instantCab": false,
+                                "allInclusive": true,
+                                "outOfCorpPolicy": false,
+                                "refundable": true,
+                                "specialPackage": false,
+                                "total_amount": 5017.0,
+                                "markup_amount": 0.0,
+                                "markup_percent": 0,
+                                "cash_to_driver": false,
+                                "per_km_charge": 20.5,
+                                "per_km_extra_charge": 20.5,
+                                "included_kms": 255.0,
+                                "is_full_payment_route": false,
+                                "payment_message": "Make part payment now",
+                                "full_payment_message": "Make full payment now",
+                                "partial_payable_amount": 2556,
+                                "full_payable_amount": 5017,
+                                "special_route_discount_percent": 50.0,
+                                "cancellation_penalty": 5017,
+                                "part_payment_persuasion": null,
+                                "is_all_inclusive": true,
+                                "is_assured": false,
+                                "is_airport_prime": false,
+                                "is_out_of_corp_policy": false,
+                                "is_refundable": true,
+                                "availability": null,
+                                "is_special_package": false,
+                                "is_bnpl": false,
+                                "coupon_code": "",
+                                "coupon_amount": 0.0,
+                                "coupon_percent": null,
+                                "wallet_discount_enabled": true,
+                                "min_km_per_day": 255.0,
+                                "base_fare": 4687,
+                                "driver_charge": 0.0,
+                                "total_days_cahrged": 1.0,
+                                "is_instant_cab": false,
+                                "part_payment_rest_amount_message": "Pay rest to the driver",
+                                "strike_off_discount": 738.0,
+                                "seller_discount": 0.0,
+                                "strike_off_discount_text": "13% off",
+                                "out_of_policy_reasons": null,
+                                "extra_time_rate": null,
+                                "strike_off_discount_textV2": "15% off",
+                                "strike_price": 5075,
+                                "highlighted_price": 4337,
+                                "tolls_and_taxes_text": "+ ₹680 (Taxes & Charges)"
+                            },
+                            "ratings_display": {
+                                "rating_show": true,
+                                "overall_rating": 4.3,
+                                "cab_condition": 0.0,
+                                "driver_behavior": 0.0,
+                                "no_of_reviews": 0,
+                                "no_of_ratings": 706,
+                                "description": "Based on *706 aggregated ratings* of the supplier for this vehicle category"
+                            },
+                            "cab_description": "Value for money",
+                            "dynamic_persuasion": null,
+                            "claim_persuasions_keys": null,
+                            "package_title": [
+                                {
+                                    "title_word": "Value",
+                                    "superscript_text": "+"
+                                },
+                                {
+                                    "title_word": "Fare",
+                                    "superscript_text": null
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "other_cabs": null,
+                "package_title": null,
+                "persuasions": [
+                    {
+                        "text": "*₹13.5/km* after *255 kms*",
+                        "highlighted_text": null,
+                        "highlight_color": null,
+                        "tag": null,
+                        "title": "Extra km fare",
+                        "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/location_blue.png"
+                    },
+                    {
+                        "text": "*CNG* with refill breaks",
+                        "highlighted_text": null,
+                        "highlight_color": null,
+                        "tag": null,
+                        "title": "Fuel Type",
+                        "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/fuel_blue.png"
+                    },
+                    {
+                        "text": " till 1 hour of departure",
+                        "highlighted_text": "*Free*",
+                        "highlight_color": "#1A7971",
+                        "tag": null,
+                        "title": "Cancellation",
+                        "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/cancelInfo.png"
+                    }
+                ],
+                "desktop_claim_persuasions": [],
+                "fare_update_tool_tip": null,
+                "model_description": "Similar Model",
+                "cab_description": "Compact Car",
+                "cab_description_v2": null,
+                "is_other_cab": false,
+                "dynamic_persuasion": null,
+                "vehicle_image_tag": null,
+                "cab_partner": null,
+                "is_ryde_cab": false,
+                "brand_info": null,
+                "coupon_banner": null,
+                "zero_payment": false,
+                "cancellation_timeline": {
+                    "cancellationTimeLineInfoList": [
+                        {
+                            "penaltyPercent": 0.0,
+                            "maximumPenalty": null,
+                            "validFrom": 1736320340801,
+                            "validTill": 1736479800000,
+                            "penaltyText": "Zero penalty ",
+                            "timeText": "before 1 hours of departure",
+                            "rangeStart": "1"
+                        },
+                        {
+                            "penaltyPercent": 100.0,
+                            "maximumPenalty": null,
+                            "validFrom": 1736479800000,
+                            "validTill": 1736483400000,
+                            "penaltyText": "100% penalty ",
+                            "timeText": "within 1 hours of departure",
+                            "rangeStart": "0"
+                        },
+                        {
+                            "penaltyPercent": 100.0,
+                            "maximumPenalty": null,
+                            "validFrom": 1736483400000,
+                            "validTill": 1736483400000,
+                            "penaltyText": "100% penalty ",
+                            "timeText": "beyond departure time",
+                            "rangeStart": "inf"
+                        }
+                    ],
+                    "penaltyStartTimestamp": 1736479800000,
+                    "penaltyEndTimestamp": 1736483400000,
+                    "penaltyAfterFreeCancellation": 3497.0,
+                    "tncList": [
+                        "MMT service charges are non-refundable. however, if the cab details are not shared in time, free cancellation will be provided",
+                        "Fee is charged to compensate drivers for the time, effort and fuel spent while trying to reach the pickup location."
+                    ]
+                },
+                "free_cancellation_string_params": {
+                    "depart_date_time": 1736483400000,
+                    "free_cancellation_till_time_stamp": 1736479800000,
+                    "free_cancellation_time_in_hrs_and_minutes_string": "44 hours 18 mins ",
+                    "free_cancellation_time_in_hrs_and_minutes": 2658,
+                    "departure_time_in_ms": 1736483400000,
+                    "booking_creation_time_in_ms": 1736320340806,
+                    "penalty_hour_and_minute_string": "1 hr",
+                    "booking_and_departureTimeMidTimestamp": 1736401870403
+                },
+                "show_flight_input_section": false,
+                "my_biz_assured": false,
+                "my_biz_assured_image": null,
+                "my_biz_assured_description": null,
+                "travel_addons": null
+            },
+            {
+                "inCabsKey": "60f099d0e5df0b002b5d5dad|5dd3eaaab2eaf300bc15fa62",
+                "category_id": "Ryde_SEDAN_GENERIC_CNG_NONE_NONE_SAVER",
+                "package": "SAVER",
+                "safety_variant": "NONE",
+                "vehicle_model_type": "GENERIC",
+                "type": "SEDAN",
+                "vendor_id": 4,
+                "supplier_id": "5dd3eaaab2eaf300bc15fa62",
+                "supplier_name": "Savaari",
+                "vendor_name": "Ryde",
+                "vehicle_image": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/Cab_Images/sedan.png",
+                "vehicle_model": "Dzire, Etios",
+                "utilities": [
+                    "Sedan",
+                    "4 SEATER",
+                    "1 BAG"
+                ],
+                "cab_utilities": [
+                    {
+                        "icon": null,
+                        "text": "Sedan",
+                        "on_icon_click_data": null
+                    },
+                    {
+                        "icon": null,
+                        "text": "AC",
+                        "on_icon_click_data": null
+                    },
+                    {
+                        "icon": null,
+                        "text": "4 Seats",
+                        "on_icon_click_data": null
+                    },
+                    {
+                        "icon": null,
+                        "text": "255 kms included",
+                        "on_icon_click_data": null
+                    }
+                ],
+                "rp_placeholder_info": null,
+                "fare_details": {
+                    "display_properties": [
+                        {
+                            "Base Fare": 3026
+                        },
+                        {
+                            "Driver Charges": 280
+                        },
+                        {
+                            "Service Fee": 118
+                        },
+                        {
+                            "Convenience Fee": 95
+                        },
+                        {
+                            "Total": 3685
+                        }
+                    ]
+                },
+                "fare_breakup_list": [
+                    {
+                        "displayName": "Base Fare",
+                        "value": 3026,
+                        "fareType": "PAYABLE",
+                        "displayCode": null
+                    },
+                    {
+                        "displayName": "Driver Charges",
+                        "value": 280,
+                        "fareType": "PAYABLE",
+                        "displayCode": null
+                    },
+                    {
+                        "displayName": "Service Fee",
+                        "value": 118,
+                        "fareType": "PAYABLE",
+                        "displayCode": null
+                    },
+                    {
+                        "displayName": "Taxes & Fees",
+                        "value": 261,
+                        "fareType": "PAYABLE",
+                        "displayCode": null
+                    },
+                    {
+                        "displayName": "Total",
+                        "value": 3685,
+                        "fareType": "TOTAL",
+                        "displayCode": null
+                    }
+                ],
+                "important_info": null,
+                "journey_detail": {
+                    "min_tat_hrs": null,
+                    "min_tat_hrs_v2": null,
+                    "approx_extra_fare": null,
+                    "approx_extra_kms": null,
+                    "overall_trip_distance_in_kms": 255.0,
+                    "overall_trip_duration_in_minutes": 282.0,
+                    "oneway_distance_in_kms": 255.0,
+                    "oneway_duration_in_minutes": 282.0
+                },
+                "cab_fare_detail": {
+                    "approxDistance": 255.0,
+                    "total_amount": 3685.0,
+                    "markup_amount": 118.0,
+                    "markup_percent": 0,
+                    "cash_to_driver": false,
+                    "per_km_charge": 13.5,
+                    "per_km_extra_charge": 13.5,
+                    "included_kms": 255.0,
+                    "is_full_payment_route": false,
+                    "payment_message": "Make part payment now",
+                    "full_payment_message": "Make full payment now",
+                    "partial_payable_amount": 931,
+                    "cancellation_penalty": 3685,
+                    "full_payable_amount": 3685,
+                    "encrypted_booking_amount": "2610",
+                    "special_route_discount_percent": 23.28690807799443,
+                    "is_all_inclusive": true,
+                    "is_assured": false,
+                    "is_airport_prime": false,
+                    "is_out_of_corp_policy": false,
+                    "is_refundable": true,
+                    "is_special_package": false,
+                    "is_bnpl": false,
+                    "coupon_code": "",
+                    "coupon_amount": 0.0,
+                    "wallet_discount_enabled": true,
+                    "min_km_per_day": 255.0,
+                    "base_fare": 3026.0,
+                    "driver_charge": 280.0,
+                    "total_days_cahrged": 1.0,
+                    "is_instant_cab": false,
+                    "part_payment_rest_amount_message": "Pay rest to the driver",
+                    "strike_off_discount": 538.0,
+                    "seller_discount": 0.0,
+                    "strike_off_discount_text": "13% off",
+                    "strike_off_discount_textV2": "15% off",
+                    "strike_price": 3564,
+                    "highlighted_price": 3026,
+                    "tolls_and_taxes_text": "+ ₹659 (Taxes & Charges)",
+                    "bs_partial_payment_label": "Pay ₹931, rest later",
+                    "bs_full_payment_label": "₹3685 Total",
+                    "bs_inclusive_label": "Total Payable Amount",
+                    "is_zero_payment_allowed": false
+                },
+                "ratings_display": {
+                    "rating_show": true,
+                    "overall_rating": 4.5,
+                    "cab_condition": 0.0,
+                    "driver_behavior": 0.0,
+                    "no_of_reviews": 0,
+                    "no_of_ratings": 6976,
+                    "description": "Based on *6976 aggregated ratings* of the supplier for this vehicle category"
+                },
+                "multi_vendor_tag": "RECOMMENDED",
+                "alternate_cabs_count": 0,
+                "display_properties": {
+                    "inclusion_list": [
+                        {
+                            "sub_title": "",
+                            "title": "Parking Charges",
+                            "description": ""
+                        },
+                        {
+                            "sub_title": "",
+                            "title": "State Tax",
+                            "description": ""
+                        },
+                        {
+                            "sub_title": "",
+                            "title": "Toll Charges",
+                            "description": ""
+                        },
+                        {
+                            "sub_title": "",
+                            "title": "255 Kms",
+                            "description": ""
+                        },
+                        {
+                            "sub_title": "",
+                            "title": "Driver Allowance",
+                            "description": ""
+                        },
+                        {
+                            "sub_title": "",
+                            "title": "Only One Pickup and Drop",
+                            "description": "Only one included"
+                        }
+                    ],
+                    "exclusion_list": [
+                        {
+                            "Fare beyond 255 Kms": "Rs 13.5/Km"
+                        }
+                    ],
+                    "exclusion_list_v2": [
+                        {
+                            "sub_title": "",
+                            "approx_value": "0",
+                            "title": "Fare beyond 255 Kms",
+                            "value": "Rs 13.5/Km"
+                        }
+                    ]
+                },
+                "inclusive_message": "Onwards",
+                "similar_message": "or similar",
+                "cab_driver_details": {
+                    "type": "REGULAR",
+                    "message": "Cab operator will be assigned on booking completion. Cab and driver details will be shared up to 30 mins prior to departure.",
+                    "callout_info": {
+                        "title": "Some points to note for CNG vehicles before your travel:",
+                        "callout_messages": [
+                            "On longer journeys refill breaks are required which *typically last 30+ minutes* because of *fewer stations* and *longer queues*.",
+                            "Diesel cabs have *stronger ACs as compared to CNG vehicles*."
+                        ]
+                    }
+                },
+                "my_safety": false,
+                "my_safety_tag": "Safe & Hygienic Cabs",
+                "included_km_string": "255 Kms",
+                "facilities": {
+                    "AC": "AC",
+                    "BAGS": "1 Bag",
+                    "SEATS": "4 Seater"
+                },
+                "detailed_ratings": {
+                    "Driver Behaviour": "0.0",
+                    "Cab Condition": "0.0"
+                },
+                "cab_type": "Sedan",
+                "id": "SEDAN_4_3685.0",
+                "best_price_guarantee_details": null,
+                "fuel_type": "CNG",
+                "luggage_info": null,
+                "fuel_info": "CNG refill breaks typically last 30+ minutes because of fewer stations and longer queues.",
+                "my_safety_accessories": null,
+                "my_safety_accessories_details": null,
+                "is_mysafety_kit_available": false,
+                "is_mysafety_shield_available": false,
+                "is_best_price_guaranteed": false,
+                "trip_guarantee_available": false,
+                "package_data": {
+                    "common_data": {
+                        "title": "Most Booked Cabs",
+                        "description": null,
+                        "attributes": null,
+                        "collapse_message": null,
+                        "expand_message": null
+                    },
+                    "packages": [
+                        {
+                            "category_id": "Ryde_SEDAN_GENERIC_CNG_NONE_NONE_SAVER",
+                            "type": "SEDAN",
+                            "is_my_safety": false,
+                            "is_safety_shield_available": false,
+                            "is_mysafety_kit_available": false,
+                            "is_best_price_guaranteed": false,
+                            "is_trip_guarantee_available": false,
+                            "package": "SAVER",
+                            "vendor": "Ryde",
+                            "fuel_type": "CNG",
+                            "safety_variant": "NONE",
+                            "vehicle_model_type": "GENERIC",
+                            "title": "Saver Fare",
+                            "subtitle": "255 kms free | After 255km @ ₹13.5/Km",
+                            "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/standard_package_icon.png",
+                            "vehicle_model": "Dzire, Etios",
+                            "inclusive_message": "inc. of tolls and taxes",
+                            "persuasions": [
+                                {
+                                    "text": "*₹13.5/km* after *255 kms*",
+                                    "highlighted_text": null,
+                                    "highlight_color": null,
+                                    "tag": null,
+                                    "title": "Extra km fare",
+                                    "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/location_blue.png"
+                                },
+                                {
+                                    "text": "*CNG* with refill breaks",
+                                    "highlighted_text": null,
+                                    "highlight_color": null,
+                                    "tag": null,
+                                    "title": "Fuel Type",
+                                    "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/fuel_blue.png"
+                                },
+                                {
+                                    "text": " till 1 hour of departure",
+                                    "highlighted_text": "*Free*",
+                                    "highlight_color": "#1A7971",
+                                    "tag": null,
+                                    "title": "Cancellation",
+                                    "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/cancelInfo.png"
+                                }
+                            ],
+                            "desktop_claim_persuasions": [],
+                            "cab_fare_detail": {
+                                "airportPrime": false,
+                                "bnpl": false,
+                                "assured": false,
+                                "instantCab": false,
+                                "allInclusive": true,
+                                "outOfCorpPolicy": false,
+                                "refundable": true,
+                                "specialPackage": false,
+                                "total_amount": 3685.0,
+                                "markup_amount": 118.0,
+                                "markup_percent": 0,
+                                "cash_to_driver": false,
+                                "per_km_charge": 13.5,
+                                "per_km_extra_charge": 13.5,
+                                "included_kms": 255.0,
+                                "is_full_payment_route": false,
+                                "payment_message": "Make part payment now",
+                                "full_payment_message": "Make full payment now",
+                                "partial_payable_amount": 931,
+                                "full_payable_amount": 3685,
+                                "special_route_discount_percent": 23.28690807799443,
+                                "cancellation_penalty": 3685,
+                                "part_payment_persuasion": null,
+                                "is_all_inclusive": true,
+                                "is_assured": false,
+                                "is_airport_prime": false,
+                                "is_out_of_corp_policy": false,
+                                "is_refundable": true,
+                                "availability": null,
+                                "is_special_package": false,
+                                "is_bnpl": false,
+                                "coupon_code": "",
+                                "coupon_amount": 0.0,
+                                "coupon_percent": null,
+                                "wallet_discount_enabled": true,
+                                "min_km_per_day": 255.0,
+                                "base_fare": 3026,
+                                "driver_charge": 280.0,
+                                "total_days_cahrged": 1.0,
+                                "is_instant_cab": false,
+                                "part_payment_rest_amount_message": "Pay rest to the driver",
+                                "strike_off_discount": 538.0,
+                                "seller_discount": 0.0,
+                                "strike_off_discount_text": "13% off",
+                                "out_of_policy_reasons": null,
+                                "extra_time_rate": null,
+                                "strike_off_discount_textV2": "15% off",
+                                "strike_price": 3564,
+                                "highlighted_price": 3026,
+                                "tolls_and_taxes_text": "+ ₹659 (Taxes & Charges)"
+                            },
+                            "ratings_display": {
+                                "rating_show": true,
+                                "overall_rating": 4.5,
+                                "cab_condition": 0.0,
+                                "driver_behavior": 0.0,
+                                "no_of_reviews": 0,
+                                "no_of_ratings": 6976,
+                                "description": "Based on *6976 aggregated ratings* of the supplier for this vehicle category"
+                            },
+                            "cab_description": "Lowest priced car",
+                            "dynamic_persuasion": null,
+                            "claim_persuasions_keys": null,
+                            "package_title": [
+                                {
+                                    "title_word": "Saver",
+                                    "superscript_text": null
+                                },
+                                {
+                                    "title_word": "Fare",
+                                    "superscript_text": null
+                                }
+                            ]
+                        },
+                        {
+                            "category_id": "Ryde_SEDAN_GENERIC_DIESEL_NONE_NONE_STANDARD",
+                            "type": "SEDAN",
+                            "is_my_safety": false,
+                            "is_safety_shield_available": false,
+                            "is_mysafety_kit_available": false,
+                            "is_best_price_guaranteed": false,
+                            "is_trip_guarantee_available": false,
+                            "package": "STANDARD",
+                            "vendor": "Ryde",
+                            "fuel_type": "DIESEL",
+                            "safety_variant": "NONE",
+                            "vehicle_model_type": "GENERIC",
+                            "title": "Standard Fare",
+                            "subtitle": "255 kms free | After 255km @ ₹20.5/Km",
+                            "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/standard_package_icon.png",
+                            "vehicle_model": "Dzire, Etios",
+                            "inclusive_message": "inc. of tolls and taxes",
+                            "persuasions": [
+                                {
+                                    "text": "*₹20.5/km* after *255 kms*",
+                                    "highlighted_text": null,
+                                    "highlight_color": null,
+                                    "tag": null,
+                                    "title": "Extra km fare",
+                                    "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/location_blue.png"
+                                },
+                                {
+                                    "text": "*Diesel*",
+                                    "highlighted_text": null,
+                                    "highlight_color": null,
+                                    "tag": null,
+                                    "title": "Fuel Type",
+                                    "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/fuel_blue.png"
+                                },
+                                {
+                                    "text": " till 1 hour of departure",
+                                    "highlighted_text": "*Free*",
+                                    "highlight_color": "#1A7971",
+                                    "tag": null,
+                                    "title": "Cancellation",
+                                    "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/cancelInfo.png"
+                                }
+                            ],
+                            "desktop_claim_persuasions": [],
+                            "cab_fare_detail": {
+                                "airportPrime": false,
+                                "bnpl": false,
+                                "assured": false,
+                                "instantCab": false,
+                                "allInclusive": true,
+                                "outOfCorpPolicy": false,
+                                "refundable": true,
+                                "specialPackage": false,
+                                "total_amount": 5311.0,
+                                "markup_amount": 118.0,
+                                "markup_percent": 0,
+                                "cash_to_driver": false,
+                                "per_km_charge": 20.5,
+                                "per_km_extra_charge": 20.5,
+                                "included_kms": 255.0,
+                                "is_full_payment_route": false,
+                                "payment_message": "Make part payment now",
+                                "full_payment_message": "Make full payment now",
+                                "partial_payable_amount": 2821,
+                                "full_payable_amount": 5311,
+                                "special_route_discount_percent": 52.262269938650306,
+                                "cancellation_penalty": 5311,
+                                "part_payment_persuasion": null,
+                                "is_all_inclusive": true,
+                                "is_assured": false,
+                                "is_airport_prime": false,
+                                "is_out_of_corp_policy": false,
+                                "is_refundable": true,
+                                "availability": null,
+                                "is_special_package": false,
+                                "is_bnpl": false,
+                                "coupon_code": "",
+                                "coupon_amount": 0.0,
+                                "coupon_percent": null,
+                                "wallet_discount_enabled": true,
+                                "min_km_per_day": 255.0,
+                                "base_fare": 4855,
+                                "driver_charge": 0.0,
+                                "total_days_cahrged": 1.0,
+                                "is_instant_cab": false,
+                                "part_payment_rest_amount_message": "Pay rest to the driver",
+                                "strike_off_discount": 782.0,
+                                "seller_discount": 0.0,
+                                "strike_off_discount_text": "13% off",
+                                "out_of_policy_reasons": null,
+                                "extra_time_rate": null,
+                                "strike_off_discount_textV2": "15% off",
+                                "strike_price": 5287,
+                                "highlighted_price": 4505,
+                                "tolls_and_taxes_text": "+ ₹806 (Taxes & Charges)"
+                            },
+                            "ratings_display": {
+                                "rating_show": true,
+                                "overall_rating": 4.3,
+                                "cab_condition": 0.0,
+                                "driver_behavior": 0.0,
+                                "no_of_reviews": 0,
+                                "no_of_ratings": 3189,
+                                "description": "Based on *3189 aggregated ratings* of the supplier for this vehicle category"
+                            },
+                            "cab_description": "Value for money",
+                            "dynamic_persuasion": null,
+                            "claim_persuasions_keys": null,
+                            "package_title": [
+                                {
+                                    "title_word": "Value",
+                                    "superscript_text": "+"
+                                },
+                                {
+                                    "title_word": "Fare",
+                                    "superscript_text": null
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "other_cabs": null,
+                "package_title": null,
+                "persuasions": [
+                    {
+                        "text": "*₹13.5/km* after *255 kms*",
+                        "highlighted_text": null,
+                        "highlight_color": null,
+                        "tag": null,
+                        "title": "Extra km fare",
+                        "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/location_blue.png"
+                    },
+                    {
+                        "text": "*CNG* with refill breaks",
+                        "highlighted_text": null,
+                        "highlight_color": null,
+                        "tag": null,
+                        "title": "Fuel Type",
+                        "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/fuel_blue.png"
+                    },
+                    {
+                        "text": " till 1 hour of departure",
+                        "highlighted_text": "*Free*",
+                        "highlight_color": "#1A7971",
+                        "tag": null,
+                        "title": "Cancellation",
+                        "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/cancelInfo.png"
+                    }
+                ],
+                "desktop_claim_persuasions": [],
+                "fare_update_tool_tip": null,
+                "model_description": "Similar Model",
+                "cab_description": "Spacious Car",
+                "cab_description_v2": null,
+                "is_other_cab": false,
+                "dynamic_persuasion": null,
+                "vehicle_image_tag": null,
+                "cab_partner": null,
+                "is_ryde_cab": false,
+                "brand_info": null,
+                "coupon_banner": null,
+                "zero_payment": false,
+                "cancellation_timeline": {
+                    "cancellationTimeLineInfoList": [
+                        {
+                            "penaltyPercent": 0.0,
+                            "maximumPenalty": null,
+                            "validFrom": 1736320340801,
+                            "validTill": 1736479800000,
+                            "penaltyText": "Zero penalty ",
+                            "timeText": "before 1 hours of departure",
+                            "rangeStart": "1"
+                        },
+                        {
+                            "penaltyPercent": 100.0,
+                            "maximumPenalty": null,
+                            "validFrom": 1736479800000,
+                            "validTill": 1736483400000,
+                            "penaltyText": "100% penalty ",
+                            "timeText": "within 1 hours of departure",
+                            "rangeStart": "0"
+                        },
+                        {
+                            "penaltyPercent": 100.0,
+                            "maximumPenalty": null,
+                            "validFrom": 1736483400000,
+                            "validTill": 1736483400000,
+                            "penaltyText": "100% penalty ",
+                            "timeText": "beyond departure time",
+                            "rangeStart": "inf"
+                        }
+                    ],
+                    "penaltyStartTimestamp": 1736479800000,
+                    "penaltyEndTimestamp": 1736483400000,
+                    "penaltyAfterFreeCancellation": 3685.0,
+                    "tncList": [
+                        "MMT service charges are non-refundable. however, if the cab details are not shared in time, free cancellation will be provided",
+                        "Fee is charged to compensate drivers for the time, effort and fuel spent while trying to reach the pickup location."
+                    ]
+                },
+                "free_cancellation_string_params": {
+                    "depart_date_time": 1736483400000,
+                    "free_cancellation_till_time_stamp": 1736479800000,
+                    "free_cancellation_time_in_hrs_and_minutes_string": "44 hours 18 mins ",
+                    "free_cancellation_time_in_hrs_and_minutes": 2658,
+                    "departure_time_in_ms": 1736483400000,
+                    "booking_creation_time_in_ms": 1736320340806,
+                    "penalty_hour_and_minute_string": "1 hr",
+                    "booking_and_departureTimeMidTimestamp": 1736401870403
+                },
+                "show_flight_input_section": false,
+                "my_biz_assured": false,
+                "my_biz_assured_image": null,
+                "my_biz_assured_description": null,
+                "travel_addons": null
+            },
+            {
+                "inCabsKey": "60f099d0e5df0b002b5d5dac|64fad7f7dda1db001d3baa54",
+                "category_id": "Ryde_SUV_GENERIC_CNG_NONE_NONE_ELITE",
+                "package": "ELITE",
+                "safety_variant": "NONE",
+                "vehicle_model_type": "GENERIC",
+                "type": "SUV",
+                "vendor_id": 4,
+                "supplier_id": "64fad7f7dda1db001d3baa54",
+                "supplier_name": "Taxibazaar",
+                "vendor_name": "Ryde",
+                "vehicle_image": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/Cab_Images/xylo.png",
+                "vehicle_model": "Xylo, Ertiga",
+                "utilities": [
+                    "SUV",
+                    "6 SEATER",
+                    "2 BAGS"
+                ],
+                "cab_utilities": [
+                    {
+                        "icon": null,
+                        "text": "SUV",
+                        "on_icon_click_data": null
+                    },
+                    {
+                        "icon": null,
+                        "text": "AC",
+                        "on_icon_click_data": null
+                    },
+                    {
+                        "icon": null,
+                        "text": "6 Seats",
+                        "on_icon_click_data": null
+                    },
+                    {
+                        "icon": null,
+                        "text": "255 kms included",
+                        "on_icon_click_data": null
+                    }
+                ],
+                "rp_placeholder_info": null,
+                "fare_details": {
+                    "display_properties": [
+                        {
+                            "Base Fare": 2405
+                        },
+                        {
+                            "Driver Charges": 925
+                        },
+                        {
+                            "Service Fee": 118
+                        },
+                        {
+                            "Convenience Fee": 95
+                        },
+                        {
+                            "Total": 4098
+                        }
+                    ]
+                },
+                "fare_breakup_list": [
+                    {
+                        "displayName": "Base Fare",
+                        "value": 2405,
+                        "fareType": "PAYABLE",
+                        "displayCode": null
+                    },
+                    {
+                        "displayName": "Driver Charges",
+                        "value": 925,
+                        "fareType": "PAYABLE",
+                        "displayCode": null
+                    },
+                    {
+                        "displayName": "Toll Charges",
+                        "value": 370,
+                        "fareType": "PAYABLE",
+                        "displayCode": null
+                    },
+                    {
+                        "displayName": "Service Fee",
+                        "value": 118,
+                        "fareType": "PAYABLE",
+                        "displayCode": null
+                    },
+                    {
+                        "displayName": "Taxes & Fees",
+                        "value": 280,
+                        "fareType": "PAYABLE",
+                        "displayCode": null
+                    },
+                    {
+                        "displayName": "Total",
+                        "value": 4098,
+                        "fareType": "TOTAL",
+                        "displayCode": null
+                    }
+                ],
+                "important_info": null,
+                "journey_detail": {
+                    "min_tat_hrs": null,
+                    "min_tat_hrs_v2": null,
+                    "approx_extra_fare": null,
+                    "approx_extra_kms": null,
+                    "overall_trip_distance_in_kms": 255.0,
+                    "overall_trip_duration_in_minutes": 282.0,
+                    "oneway_distance_in_kms": 255.0,
+                    "oneway_duration_in_minutes": 282.0
+                },
+                "cab_fare_detail": {
+                    "approxDistance": 255.0,
+                    "total_amount": 4098.0,
+                    "markup_amount": 118.0,
+                    "markup_percent": 0,
+                    "cash_to_driver": false,
+                    "per_km_charge": 16.0,
+                    "per_km_extra_charge": 16.0,
+                    "included_kms": 255.0,
+                    "is_full_payment_route": false,
+                    "payment_message": "Make part payment now",
+                    "full_payment_message": "Make full payment now",
+                    "partial_payable_amount": 1014,
+                    "cancellation_penalty": 4098,
+                    "full_payable_amount": 4098,
+                    "encrypted_booking_amount": "5205",
+                    "special_route_discount_percent": 22.957781663752186,
+                    "is_all_inclusive": true,
+                    "is_assured": false,
+                    "is_airport_prime": false,
+                    "is_out_of_corp_policy": false,
+                    "is_refundable": true,
+                    "is_special_package": false,
+                    "is_bnpl": false,
+                    "coupon_code": "",
+                    "coupon_amount": 0.0,
+                    "wallet_discount_enabled": true,
+                    "min_km_per_day": 255.0,
+                    "base_fare": 2775.0,
+                    "driver_charge": 925.0,
+                    "total_days_cahrged": 1.0,
+                    "is_instant_cab": false,
+                    "part_payment_rest_amount_message": "Pay rest to the driver",
+                    "seller_discount": 0.0,
+                    "strike_price": 0,
+                    "highlighted_price": 2405,
+                    "tolls_and_taxes_text": "+ ₹1693 (Taxes & Charges)",
+                    "bs_partial_payment_label": "Pay ₹1014, rest later",
+                    "bs_full_payment_label": "₹4098 Total",
+                    "bs_inclusive_label": "Total Payable Amount",
+                    "is_zero_payment_allowed": false
+                },
+                "ratings_display": {
+                    "rating_show": true,
+                    "overall_rating": 4.1,
+                    "cab_condition": 0.0,
+                    "driver_behavior": 0.0,
+                    "no_of_reviews": 0,
+                    "no_of_ratings": 59,
+                    "description": "Based on *59 aggregated ratings* of the supplier for this vehicle category"
+                },
+                "multi_vendor_tag": "RECOMMENDED",
+                "alternate_cabs_count": 0,
+                "display_properties": {
+                    "inclusion_list": [
+                        {
+                            "sub_title": "",
+                            "title": "State Tax",
+                            "description": ""
+                        },
+                        {
+                            "sub_title": "",
+                            "title": "Toll Charges",
+                            "description": ""
+                        },
+                        {
+                            "sub_title": "",
+                            "title": "Driver in uniform & a route expert",
+                            "description": ""
+                        },
+                        {
+                            "sub_title": "",
+                            "title": "Sanitiser & Newspaper",
+                            "description": ""
+                        },
+                        {
+                            "sub_title": "",
+                            "title": "255 Kms",
+                            "description": ""
+                        },
+                        {
+                            "sub_title": "",
+                            "title": "Driver Allowance",
+                            "description": ""
+                        },
+                        {
+                            "sub_title": "",
+                            "title": "Only One Pickup and Drop",
+                            "description": "Only one included"
+                        }
+                    ],
+                    "exclusion_list": [
+                        {
+                            "Waiting Charges": "After 30 mins, Rs 150.0/hr"
+                        },
+                        {
+                            "Fare beyond 255 Kms": "Rs 16/Km"
+                        }
+                    ],
+                    "exclusion_list_v2": [
+                        {
+                            "sub_title": "",
+                            "approx_value": "0",
+                            "title": "Fare beyond 255 Kms",
+                            "value": "Rs 16/Km"
+                        },
+                        {
+                            "sub_title": "After 30 mins, ",
+                            "approx_value": "0",
+                            "title": "Waiting Charges",
+                            "value": "Rs 150.0/hr"
+                        }
+                    ]
+                },
+                "inclusive_message": "Onwards",
+                "similar_message": "or similar",
+                "cab_driver_details": {
+                    "type": "REGULAR",
+                    "message": "Cab operator will be assigned on booking completion. Cab and driver details will be shared up to 30 mins prior to departure.",
+                    "callout_info": {
+                        "title": "Some points to note for CNG vehicles before your travel:",
+                        "callout_messages": [
+                            "On longer journeys refill breaks are required which *typically last 30+ minutes* because of *fewer stations* and *longer queues*.",
+                            "Diesel cabs have *stronger ACs as compared to CNG vehicles*."
+                        ]
+                    }
+                },
+                "my_safety": false,
+                "my_safety_tag": "Safe & Hygienic Cabs",
+                "included_km_string": "255 Kms",
+                "facilities": {
+                    "AC": "AC",
+                    "BAGS": "2 Bags",
+                    "SEATS": "6 Seater"
+                },
+                "detailed_ratings": {
+                    "Driver Behaviour": "0.0",
+                    "Cab Condition": "0.0"
+                },
+                "cab_type": "Suv",
+                "id": "SUV_4_4098.0",
+                "best_price_guarantee_details": null,
+                "fuel_type": "CNG",
+                "luggage_info": null,
+                "fuel_info": "CNG refill breaks typically last 30+ minutes because of fewer stations and longer queues.",
+                "my_safety_accessories": null,
+                "my_safety_accessories_details": null,
+                "is_mysafety_kit_available": false,
+                "is_mysafety_shield_available": false,
+                "is_best_price_guaranteed": false,
+                "trip_guarantee_available": false,
+                "package_data": {
+                    "common_data": {
+                        "title": "Most Booked Cabs",
+                        "description": null,
+                        "attributes": null,
+                        "collapse_message": null,
+                        "expand_message": null
+                    },
+                    "packages": [
+                        {
+                            "category_id": "Ryde_SUV_GENERIC_CNG_NONE_NONE_ELITE",
+                            "type": "SUV",
+                            "is_my_safety": false,
+                            "is_safety_shield_available": false,
+                            "is_mysafety_kit_available": false,
+                            "is_best_price_guaranteed": false,
+                            "is_trip_guarantee_available": false,
+                            "package": "ELITE",
+                            "vendor": "Ryde",
+                            "fuel_type": "CNG",
+                            "safety_variant": "NONE",
+                            "vehicle_model_type": "GENERIC",
+                            "title": "Elite Fare",
+                            "subtitle": "255 kms free | After 255km @ ₹16.0/Km",
+                            "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/standard_package_icon.png",
+                            "vehicle_model": "Xylo, Ertiga",
+                            "inclusive_message": "inc. of tolls and taxes",
+                            "persuasions": [
+                                {
+                                    "text": "*₹16.0/km* after *255 kms*",
+                                    "highlighted_text": null,
+                                    "highlight_color": null,
+                                    "tag": null,
+                                    "title": "Extra km fare",
+                                    "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/location_blue.png"
+                                },
+                                {
+                                    "text": "*CNG* with refill breaks",
+                                    "highlighted_text": null,
+                                    "highlight_color": null,
+                                    "tag": null,
+                                    "title": "Fuel Type",
+                                    "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/fuel_blue.png"
+                                },
+                                {
+                                    "text": " till 1 hour of departure",
+                                    "highlighted_text": "*Free*",
+                                    "highlight_color": "#1A7971",
+                                    "tag": null,
+                                    "title": "Cancellation",
+                                    "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/cancelInfo.png"
+                                },
+                                {
+                                    "text": "Driver in *uniform* & *a route expert*,*Sanitiser* & *Newspaper*",
+                                    "highlighted_text": null,
+                                    "highlight_color": null,
+                                    "tag": null,
+                                    "title": "Amenities",
+                                    "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/amenities_dt.png"
+                                }
+                            ],
+                            "desktop_claim_persuasions": [],
+                            "cab_fare_detail": {
+                                "airportPrime": false,
+                                "bnpl": false,
+                                "assured": false,
+                                "instantCab": false,
+                                "allInclusive": true,
+                                "outOfCorpPolicy": false,
+                                "refundable": true,
+                                "specialPackage": false,
+                                "total_amount": 4098.0,
+                                "markup_amount": 118.0,
+                                "markup_percent": 0,
+                                "cash_to_driver": false,
+                                "per_km_charge": 16.0,
+                                "per_km_extra_charge": 16.0,
+                                "included_kms": 255.0,
+                                "is_full_payment_route": false,
+                                "payment_message": "Make part payment now",
+                                "full_payment_message": "Make full payment now",
+                                "partial_payable_amount": 1014,
+                                "full_payable_amount": 4098,
+                                "special_route_discount_percent": 22.957781663752186,
+                                "cancellation_penalty": 4098,
+                                "part_payment_persuasion": null,
+                                "is_all_inclusive": true,
+                                "is_assured": false,
+                                "is_airport_prime": false,
+                                "is_out_of_corp_policy": false,
+                                "is_refundable": true,
+                                "availability": null,
+                                "is_special_package": false,
+                                "is_bnpl": false,
+                                "coupon_code": "",
+                                "coupon_amount": 0.0,
+                                "coupon_percent": null,
+                                "wallet_discount_enabled": true,
+                                "min_km_per_day": 255.0,
+                                "base_fare": 2775,
+                                "driver_charge": 925.0,
+                                "total_days_cahrged": 1.0,
+                                "is_instant_cab": false,
+                                "part_payment_rest_amount_message": "Pay rest to the driver",
+                                "seller_discount": 0.0,
+                                "strike_off_discount_text": null,
+                                "out_of_policy_reasons": null,
+                                "extra_time_rate": null,
+                                "strike_off_discount_textV2": null,
+                                "strike_price": 0,
+                                "highlighted_price": 2405,
+                                "tolls_and_taxes_text": "+ ₹1693 (Taxes & Charges)"
+                            },
+                            "ratings_display": {
+                                "rating_show": true,
+                                "overall_rating": 4.1,
+                                "cab_condition": 0.0,
+                                "driver_behavior": 0.0,
+                                "no_of_reviews": 0,
+                                "no_of_ratings": 59,
+                                "description": "Based on *59 aggregated ratings* of the supplier for this vehicle category"
+                            },
+                            "cab_description": "Cars with amenities",
+                            "dynamic_persuasion": null,
+                            "claim_persuasions_keys": null,
+                            "package_title": [
+                                {
+                                    "title_word": "Prime",
+                                    "superscript_text": null
+                                },
+                                {
+                                    "title_word": "Fare",
+                                    "superscript_text": null
+                                }
+                            ]
+                        },
+                        {
+                            "category_id": "Ryde_SUV_GENERIC_DIESEL_NONE_NONE_STANDARD",
+                            "type": "SUV",
+                            "is_my_safety": false,
+                            "is_safety_shield_available": false,
+                            "is_mysafety_kit_available": false,
+                            "is_best_price_guaranteed": false,
+                            "is_trip_guarantee_available": false,
+                            "package": "STANDARD",
+                            "vendor": "Ryde",
+                            "fuel_type": "DIESEL",
+                            "safety_variant": "NONE",
+                            "vehicle_model_type": "GENERIC",
+                            "title": "Standard Fare",
+                            "subtitle": "255 kms free | After 255km @ ₹26.0/Km",
+                            "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/standard_package_icon.png",
+                            "vehicle_model": "Xylo, Ertiga",
+                            "inclusive_message": "inc. of tolls and taxes",
+                            "persuasions": [
+                                {
+                                    "text": "*₹26.0/km* after *255 kms*",
+                                    "highlighted_text": null,
+                                    "highlight_color": null,
+                                    "tag": null,
+                                    "title": "Extra km fare",
+                                    "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/location_blue.png"
+                                },
+                                {
+                                    "text": "*Diesel*",
+                                    "highlighted_text": null,
+                                    "highlight_color": null,
+                                    "tag": null,
+                                    "title": "Fuel Type",
+                                    "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/fuel_blue.png"
+                                },
+                                {
+                                    "text": " till 1 hour of departure",
+                                    "highlighted_text": "*Free*",
+                                    "highlight_color": "#1A7971",
+                                    "tag": null,
+                                    "title": "Cancellation",
+                                    "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/cancelInfo.png"
+                                }
+                            ],
+                            "desktop_claim_persuasions": [],
+                            "cab_fare_detail": {
+                                "airportPrime": false,
+                                "bnpl": false,
+                                "assured": false,
+                                "instantCab": false,
+                                "allInclusive": true,
+                                "outOfCorpPolicy": false,
+                                "refundable": true,
+                                "specialPackage": false,
+                                "total_amount": 7318.0,
+                                "markup_amount": 118.0,
+                                "markup_percent": 0,
+                                "cash_to_driver": false,
+                                "per_km_charge": 26.0,
+                                "per_km_extra_charge": 26.0,
+                                "included_kms": 255.0,
+                                "is_full_payment_route": false,
+                                "payment_message": "Make part payment now",
+                                "full_payment_message": "Make full payment now",
+                                "partial_payable_amount": 3825,
+                                "full_payable_amount": 7318,
+                                "special_route_discount_percent": 51.640592551571366,
+                                "cancellation_penalty": 7318,
+                                "part_payment_persuasion": null,
+                                "is_all_inclusive": true,
+                                "is_assured": false,
+                                "is_airport_prime": false,
+                                "is_out_of_corp_policy": false,
+                                "is_refundable": true,
+                                "availability": null,
+                                "is_special_package": false,
+                                "is_bnpl": false,
+                                "coupon_code": "",
+                                "coupon_amount": 0.0,
+                                "coupon_percent": null,
+                                "wallet_discount_enabled": true,
+                                "min_km_per_day": 255.0,
+                                "base_fare": 6766,
+                                "driver_charge": 0.0,
+                                "total_days_cahrged": 1.0,
+                                "is_instant_cab": false,
+                                "part_payment_rest_amount_message": "Pay rest to the driver",
+                                "strike_off_discount": 1083.0,
+                                "seller_discount": 0.0,
+                                "strike_off_discount_text": "13% off",
+                                "out_of_policy_reasons": null,
+                                "extra_time_rate": null,
+                                "strike_off_discount_textV2": "14% off",
+                                "strike_price": 7499,
+                                "highlighted_price": 6416,
+                                "tolls_and_taxes_text": "+ ₹902 (Taxes & Charges)"
+                            },
+                            "ratings_display": {
+                                "rating_show": true,
+                                "overall_rating": 4.2,
+                                "cab_condition": 0.0,
+                                "driver_behavior": 0.0,
+                                "no_of_reviews": 0,
+                                "no_of_ratings": 468,
+                                "description": "Based on *468 aggregated ratings* of the supplier for this vehicle category"
+                            },
+                            "cab_description": "Value for money",
+                            "dynamic_persuasion": null,
+                            "claim_persuasions_keys": null,
+                            "package_title": [
+                                {
+                                    "title_word": "Value",
+                                    "superscript_text": "+"
+                                },
+                                {
+                                    "title_word": "Fare",
+                                    "superscript_text": null
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "other_cabs": null,
+                "package_title": null,
+                "persuasions": [
+                    {
+                        "text": "*₹16.0/km* after *255 kms*",
+                        "highlighted_text": null,
+                        "highlight_color": null,
+                        "tag": null,
+                        "title": "Extra km fare",
+                        "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/location_blue.png"
+                    },
+                    {
+                        "text": "*CNG* with refill breaks",
+                        "highlighted_text": null,
+                        "highlight_color": null,
+                        "tag": null,
+                        "title": "Fuel Type",
+                        "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/fuel_blue.png"
+                    },
+                    {
+                        "text": " till 1 hour of departure",
+                        "highlighted_text": "*Free*",
+                        "highlight_color": "#1A7971",
+                        "tag": null,
+                        "title": "Cancellation",
+                        "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/cancelInfo.png"
+                    },
+                    {
+                        "text": "Driver in *uniform* & *a route expert*,*Sanitiser* & *Newspaper*",
+                        "highlighted_text": null,
+                        "highlight_color": null,
+                        "tag": null,
+                        "title": "Amenities",
+                        "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/amenities_dt.png"
+                    }
+                ],
+                "desktop_claim_persuasions": [],
+                "fare_update_tool_tip": null,
+                "model_description": "Similar Model",
+                "cab_description": "Large Car",
+                "cab_description_v2": null,
+                "is_other_cab": false,
+                "dynamic_persuasion": null,
+                "vehicle_image_tag": null,
+                "cab_partner": null,
+                "is_ryde_cab": false,
+                "brand_info": null,
+                "coupon_banner": null,
+                "zero_payment": false,
+                "cancellation_timeline": {
+                    "cancellationTimeLineInfoList": [
+                        {
+                            "penaltyPercent": 0.0,
+                            "maximumPenalty": null,
+                            "validFrom": 1736320340801,
+                            "validTill": 1736479800000,
+                            "penaltyText": "Zero penalty ",
+                            "timeText": "before 1 hours of departure",
+                            "rangeStart": "1"
+                        },
+                        {
+                            "penaltyPercent": 100.0,
+                            "maximumPenalty": null,
+                            "validFrom": 1736479800000,
+                            "validTill": 1736483400000,
+                            "penaltyText": "100% penalty ",
+                            "timeText": "within 1 hours of departure",
+                            "rangeStart": "0"
+                        },
+                        {
+                            "penaltyPercent": 100.0,
+                            "maximumPenalty": null,
+                            "validFrom": 1736483400000,
+                            "validTill": 1736483400000,
+                            "penaltyText": "100% penalty ",
+                            "timeText": "beyond departure time",
+                            "rangeStart": "inf"
+                        }
+                    ],
+                    "penaltyStartTimestamp": 1736479800000,
+                    "penaltyEndTimestamp": 1736483400000,
+                    "penaltyAfterFreeCancellation": 4098.0,
+                    "tncList": [
+                        "MMT service charges are non-refundable. however, if the cab details are not shared in time, free cancellation will be provided",
+                        "Fee is charged to compensate drivers for the time, effort and fuel spent while trying to reach the pickup location."
+                    ]
+                },
+                "free_cancellation_string_params": {
+                    "depart_date_time": 1736483400000,
+                    "free_cancellation_till_time_stamp": 1736479800000,
+                    "free_cancellation_time_in_hrs_and_minutes_string": "44 hours 18 mins ",
+                    "free_cancellation_time_in_hrs_and_minutes": 2658,
+                    "departure_time_in_ms": 1736483400000,
+                    "booking_creation_time_in_ms": 1736320340806,
+                    "penalty_hour_and_minute_string": "1 hr",
+                    "booking_and_departureTimeMidTimestamp": 1736401870403
+                },
+                "show_flight_input_section": false,
+                "my_biz_assured": false,
+                "my_biz_assured_image": null,
+                "my_biz_assured_description": null,
+                "travel_addons": [
+                    {
+                        "id": "CARRIER",
+                        "price": 210.0,
+                        "subText": null,
+                        "description": "Car with roof carrier for adjusting extra luggage",
+                        "name": "Roof Carrier",
+                        "icon": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/icons/star_ic.png",
+                        "order": 0,
+                        "selected": false,
+                        "listing_text": "*Roof carrier* available with this car starting @ INR 210",
+                        "show_in_listing": true,
+                        "min_payment": 42.0,
+                        "options": null
+                    }
+                ]
+            },
+            {
+                "inCabsKey": "60f099c8e5df0b002b5d5d6c|5dd3eaaab2eaf300bc15fa62",
+                "category_id": "Ryde_SUV_INNOVA_DIESEL_NONE_NONE_NONE",
+                "package": "NONE",
+                "safety_variant": "NONE",
+                "vehicle_model_type": "INNOVA",
+                "type": "SUV",
+                "vendor_id": 4,
+                "supplier_id": "5dd3eaaab2eaf300bc15fa62",
+                "supplier_name": "Savaari",
+                "vendor_name": "Ryde",
+                "vehicle_image": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/Cab_Images/xylo.png",
+                "vehicle_model": "Toyota Innova",
+                "utilities": [
+                    "SUV",
+                    "6 SEATER",
+                    "3 BAGS"
+                ],
+                "cab_utilities": [
+                    {
+                        "icon": null,
+                        "text": "SUV",
+                        "on_icon_click_data": null
+                    },
+                    {
+                        "icon": null,
+                        "text": "AC",
+                        "on_icon_click_data": null
+                    },
+                    {
+                        "icon": null,
+                        "text": "6 Seats",
+                        "on_icon_click_data": null
+                    },
+                    {
+                        "icon": null,
+                        "text": "255 kms included",
+                        "on_icon_click_data": null
+                    }
+                ],
+                "rp_placeholder_info": null,
+                "fare_details": {
+                    "display_properties": [
+                        {
+                            "Base Fare": 9213
+                        },
+                        {
+                            "Driver Charges": 295
+                        },
+                        {
+                            "Service Fee": 118
+                        },
+                        {
+                            "Convenience Fee": 95
+                        },
+                        {
+                            "Total": 10197
+                        }
+                    ]
+                },
+                "fare_breakup_list": [
+                    {
+                        "displayName": "Base Fare",
+                        "value": 9213,
+                        "fareType": "PAYABLE",
+                        "displayCode": null
+                    },
+                    {
+                        "displayName": "Driver Charges",
+                        "value": 295,
+                        "fareType": "PAYABLE",
+                        "displayCode": null
+                    },
+                    {
+                        "displayName": "Service Fee",
+                        "value": 118,
+                        "fareType": "PAYABLE",
+                        "displayCode": null
+                    },
+                    {
+                        "displayName": "Taxes & Fees",
+                        "value": 571,
+                        "fareType": "PAYABLE",
+                        "displayCode": null
+                    },
+                    {
+                        "displayName": "Total",
+                        "value": 10197,
+                        "fareType": "TOTAL",
+                        "displayCode": null
+                    }
+                ],
+                "important_info": null,
+                "journey_detail": {
+                    "min_tat_hrs": null,
+                    "min_tat_hrs_v2": null,
+                    "approx_extra_fare": null,
+                    "approx_extra_kms": null,
+                    "overall_trip_distance_in_kms": 255.0,
+                    "overall_trip_duration_in_minutes": 282.0,
+                    "oneway_distance_in_kms": 255.0,
+                    "oneway_duration_in_minutes": 282.0
+                },
+                "cab_fare_detail": {
+                    "approxDistance": 255.0,
+                    "total_amount": 10197.0,
+                    "markup_amount": 118.0,
+                    "markup_percent": 0,
+                    "cash_to_driver": false,
+                    "per_km_charge": 20.0,
+                    "per_km_extra_charge": 20.0,
+                    "included_kms": 255.0,
+                    "is_full_payment_route": false,
+                    "payment_message": "Make part payment now",
+                    "full_payment_message": "Make full payment now",
+                    "partial_payable_amount": 2234,
+                    "cancellation_penalty": 10197,
+                    "full_payable_amount": 10197,
+                    "encrypted_booking_amount": "9090",
+                    "special_route_discount_percent": 21.174024945555335,
+                    "is_all_inclusive": true,
+                    "is_assured": false,
+                    "is_airport_prime": false,
+                    "is_out_of_corp_policy": false,
+                    "is_refundable": true,
+                    "is_special_package": false,
+                    "is_bnpl": false,
+                    "coupon_code": "",
+                    "coupon_amount": 0.0,
+                    "wallet_discount_enabled": true,
+                    "min_km_per_day": 255.0,
+                    "base_fare": 9213.0,
+                    "driver_charge": 295.0,
+                    "total_days_cahrged": 1.0,
+                    "is_instant_cab": false,
+                    "part_payment_rest_amount_message": "Pay rest to the driver",
+                    "strike_off_discount": 1515.0,
+                    "seller_discount": 0.0,
+                    "strike_off_discount_text": "13% off",
+                    "strike_off_discount_textV2": "14% off",
+                    "strike_price": 10728,
+                    "highlighted_price": 9213,
+                    "tolls_and_taxes_text": "+ ₹984 (Taxes & Charges)",
+                    "bs_partial_payment_label": "Pay ₹2234, rest later",
+                    "bs_full_payment_label": "₹10197 Total",
+                    "bs_inclusive_label": "Total Payable Amount",
+                    "is_zero_payment_allowed": false
+                },
+                "ratings_display": {
+                    "rating_show": true,
+                    "overall_rating": 4.6,
+                    "cab_condition": 0.0,
+                    "driver_behavior": 0.0,
+                    "no_of_reviews": 0,
+                    "no_of_ratings": 223,
+                    "description": "Based on *223 aggregated ratings* of the supplier for this vehicle category"
+                },
+                "multi_vendor_tag": "RECOMMENDED",
+                "alternate_cabs_count": 0,
+                "display_properties": {
+                    "inclusion_list": [
+                        {
+                            "sub_title": "",
+                            "title": "Parking Charges",
+                            "description": ""
+                        },
+                        {
+                            "sub_title": "",
+                            "title": "State Tax",
+                            "description": ""
+                        },
+                        {
+                            "sub_title": "",
+                            "title": "Toll Charges",
+                            "description": ""
+                        },
+                        {
+                            "sub_title": "",
+                            "title": "255 Kms",
+                            "description": ""
+                        },
+                        {
+                            "sub_title": "",
+                            "title": "Driver Allowance",
+                            "description": ""
+                        },
+                        {
+                            "sub_title": "",
+                            "title": "Only One Pickup and Drop",
+                            "description": "Only one included"
+                        }
+                    ],
+                    "exclusion_list": [
+                        {
+                            "Fare beyond 255 Kms": "Rs 20/Km"
+                        }
+                    ],
+                    "exclusion_list_v2": [
+                        {
+                            "sub_title": "",
+                            "approx_value": "0",
+                            "title": "Fare beyond 255 Kms",
+                            "value": "Rs 20/Km"
+                        }
+                    ]
+                },
+                "inclusive_message": "inc. of tolls and taxes",
+                "similar_message": null,
+                "cab_driver_details": {
+                    "type": "REGULAR",
+                    "message": "Cab operator will be assigned on booking completion. Cab and driver details will be shared up to 30 mins prior to departure."
+                },
+                "my_safety": false,
+                "my_safety_tag": "Safe & Hygienic Cabs",
+                "included_km_string": "255 Kms",
+                "facilities": {
+                    "AC": "AC",
+                    "BAGS": "3 Bags",
+                    "SEATS": "6 Seater"
+                },
+                "detailed_ratings": {
+                    "Driver Behaviour": "0.0",
+                    "Cab Condition": "0.0"
+                },
+                "cab_type": "Suv",
+                "id": "SUV_4_10197.0",
+                "best_price_guarantee_details": null,
+                "fuel_type": "DIESEL",
+                "luggage_info": null,
+                "fuel_info": null,
+                "my_safety_accessories": null,
+                "my_safety_accessories_details": null,
+                "is_mysafety_kit_available": false,
+                "is_mysafety_shield_available": false,
+                "is_best_price_guaranteed": false,
+                "trip_guarantee_available": false,
+                "package_data": null,
+                "other_cabs": null,
+                "package_title": null,
+                "persuasions": [
+                    {
+                        "text": "*₹20.0/km* after *255 kms*",
+                        "highlighted_text": null,
+                        "highlight_color": null,
+                        "tag": null,
+                        "title": "Extra km fare",
+                        "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/location_blue.png"
+                    },
+                    {
+                        "text": "*Diesel*",
+                        "highlighted_text": null,
+                        "highlight_color": null,
+                        "tag": null,
+                        "title": "Fuel Type",
+                        "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/fuel_blue.png"
+                    },
+                    {
+                        "text": " till 1 hour of departure",
+                        "highlighted_text": "*Free*",
+                        "highlight_color": "#1A7971",
+                        "tag": null,
+                        "title": "Cancellation",
+                        "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/cancelInfo.png"
+                    }
+                ],
+                "desktop_claim_persuasions": [],
+                "fare_update_tool_tip": null,
+                "model_description": "Specific Model",
+                "cab_description": "Large Car",
+                "cab_description_v2": null,
+                "is_other_cab": false,
+                "dynamic_persuasion": null,
+                "vehicle_image_tag": null,
+                "cab_partner": null,
+                "is_ryde_cab": false,
+                "brand_info": null,
+                "coupon_banner": null,
+                "zero_payment": false,
+                "cancellation_timeline": {
+                    "cancellationTimeLineInfoList": [
+                        {
+                            "penaltyPercent": 0.0,
+                            "maximumPenalty": null,
+                            "validFrom": 1736320340801,
+                            "validTill": 1736479800000,
+                            "penaltyText": "Zero penalty ",
+                            "timeText": "before 1 hours of departure",
+                            "rangeStart": "1"
+                        },
+                        {
+                            "penaltyPercent": 100.0,
+                            "maximumPenalty": null,
+                            "validFrom": 1736479800000,
+                            "validTill": 1736483400000,
+                            "penaltyText": "100% penalty ",
+                            "timeText": "within 1 hours of departure",
+                            "rangeStart": "0"
+                        },
+                        {
+                            "penaltyPercent": 100.0,
+                            "maximumPenalty": null,
+                            "validFrom": 1736483400000,
+                            "validTill": 1736483400000,
+                            "penaltyText": "100% penalty ",
+                            "timeText": "beyond departure time",
+                            "rangeStart": "inf"
+                        }
+                    ],
+                    "penaltyStartTimestamp": 1736479800000,
+                    "penaltyEndTimestamp": 1736483400000,
+                    "penaltyAfterFreeCancellation": 10197.0,
+                    "tncList": [
+                        "MMT service charges are non-refundable. however, if the cab details are not shared in time, free cancellation will be provided",
+                        "Fee is charged to compensate drivers for the time, effort and fuel spent while trying to reach the pickup location."
+                    ]
+                },
+                "free_cancellation_string_params": {
+                    "depart_date_time": 1736483400000,
+                    "free_cancellation_till_time_stamp": 1736479800000,
+                    "free_cancellation_time_in_hrs_and_minutes_string": "44 hours 18 mins ",
+                    "free_cancellation_time_in_hrs_and_minutes": 2658,
+                    "departure_time_in_ms": 1736483400000,
+                    "booking_creation_time_in_ms": 1736320340806,
+                    "penalty_hour_and_minute_string": "1 hr",
+                    "booking_and_departureTimeMidTimestamp": 1736401870403
+                },
+                "show_flight_input_section": false,
+                "my_biz_assured": false,
+                "my_biz_assured_image": null,
+                "my_biz_assured_description": null,
+                "travel_addons": null
+            },
+            {
+                "inCabsKey": "629ee5805ce3960019e7bedc|66727a54da5e90001e3de85a",
+                "category_id": "Ryde_SEDAN_DZIRE_PETROL_NONE_NONE_NONE",
+                "package": "NONE",
+                "safety_variant": "NONE",
+                "vehicle_model_type": "DZIRE",
+                "type": "SEDAN",
+                "vendor_id": 4,
+                "supplier_id": "66727a54da5e90001e3de85a",
+                "supplier_name": "Eroovo",
+                "vendor_name": "Ryde",
+                "vehicle_image": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/Cab_Images/sedan.png",
+                "vehicle_model": "Swift Dzire",
+                "utilities": [
+                    "Sedan",
+                    "4 SEATER",
+                    "2 BAGS"
+                ],
+                "cab_utilities": [
+                    {
+                        "icon": null,
+                        "text": "Sedan",
+                        "on_icon_click_data": null
+                    },
+                    {
+                        "icon": null,
+                        "text": "AC",
+                        "on_icon_click_data": null
+                    },
+                    {
+                        "icon": null,
+                        "text": "4 Seats",
+                        "on_icon_click_data": null
+                    },
+                    {
+                        "icon": null,
+                        "text": "255 kms included",
+                        "on_icon_click_data": null
+                    }
+                ],
+                "rp_placeholder_info": null,
+                "fare_details": {
+                    "display_properties": [
+                        {
+                            "Base Fare": 9690
+                        },
+                        {
+                            "Driver Charges": 350
+                        },
+                        {
+                            "Convenience Fee": 95
+                        },
+                        {
+                            "Total": 10637
+                        }
+                    ]
+                },
+                "fare_breakup_list": [
+                    {
+                        "displayName": "Base Fare",
+                        "value": 9690,
+                        "fareType": "PAYABLE",
+                        "displayCode": null
+                    },
+                    {
+                        "displayName": "Driver Charges",
+                        "value": 350,
+                        "fareType": "PAYABLE",
+                        "displayCode": null
+                    },
+                    {
+                        "displayName": "Taxes & Fees",
+                        "value": 597,
+                        "fareType": "PAYABLE",
+                        "displayCode": null
+                    },
+                    {
+                        "displayName": "Total",
+                        "value": 10637,
+                        "fareType": "TOTAL",
+                        "displayCode": null
+                    }
+                ],
+                "important_info": null,
+                "journey_detail": {
+                    "min_tat_hrs": null,
+                    "min_tat_hrs_v2": null,
+                    "approx_extra_fare": null,
+                    "approx_extra_kms": null,
+                    "overall_trip_distance_in_kms": 255.0,
+                    "overall_trip_duration_in_minutes": 282.0,
+                    "oneway_distance_in_kms": 255.0,
+                    "oneway_duration_in_minutes": 282.0
+                },
+                "cab_fare_detail": {
+                    "approxDistance": 255.0,
+                    "total_amount": 10637.0,
+                    "markup_amount": 0.0,
+                    "markup_percent": 0,
+                    "cash_to_driver": false,
+                    "per_km_charge": 19.0,
+                    "per_km_extra_charge": 19.0,
+                    "included_kms": 255.0,
+                    "is_full_payment_route": false,
+                    "payment_message": "Make part payment now",
+                    "full_payment_message": "Make full payment now",
+                    "partial_payable_amount": 5366,
+                    "cancellation_penalty": 10637,
+                    "full_payable_amount": 10637,
+                    "encrypted_booking_amount": "11738",
+                    "special_route_discount_percent": 50.0,
+                    "is_all_inclusive": false,
+                    "is_assured": false,
+                    "is_airport_prime": false,
+                    "is_out_of_corp_policy": false,
+                    "is_refundable": true,
+                    "is_special_package": false,
+                    "is_bnpl": false,
+                    "coupon_code": "",
+                    "coupon_amount": 0.0,
+                    "wallet_discount_enabled": true,
+                    "min_km_per_day": 255.0,
+                    "base_fare": 9690.0,
+                    "driver_charge": 350.0,
+                    "total_days_cahrged": 1.0,
+                    "is_instant_cab": false,
+                    "part_payment_rest_amount_message": "Pay rest to the driver",
+                    "seller_discount": 0.0,
+                    "strike_price": 0,
+                    "highlighted_price": 9690,
+                    "tolls_and_taxes_text": "+ ₹947 (Taxes & Charges)",
+                    "bs_partial_payment_label": "Pay ₹5366, rest later",
+                    "bs_full_payment_label": "₹10637 Total",
+                    "bs_inclusive_label": "Total Payable Amount",
+                    "is_zero_payment_allowed": false
+                },
+                "ratings_display": {
+                    "rating_show": false,
+                    "overall_rating": 5.0,
+                    "no_of_reviews": 0,
+                    "no_of_ratings": 0
+                },
+                "multi_vendor_tag": "RECOMMENDED",
+                "alternate_cabs_count": 0,
+                "display_properties": {
+                    "inclusion_list": [
+                        {
+                            "sub_title": "",
+                            "title": "Parking Charges",
+                            "description": ""
+                        },
+                        {
+                            "sub_title": "",
+                            "title": "State Tax",
+                            "description": ""
+                        },
+                        {
+                            "sub_title": "",
+                            "title": "Toll Charges",
+                            "description": ""
+                        },
+                        {
+                            "sub_title": "",
+                            "title": "255 Kms",
+                            "description": ""
+                        },
+                        {
+                            "sub_title": "",
+                            "title": "Driver Allowance",
+                            "description": ""
+                        },
+                        {
+                            "sub_title": "",
+                            "title": "Only One Pickup and Drop",
+                            "description": "Only one included"
+                        }
+                    ],
+                    "exclusion_list": [
+                        {
+                            "Fare beyond 255 Kms": "Rs 19/Km"
+                        }
+                    ],
+                    "exclusion_list_v2": [
+                        {
+                            "sub_title": "",
+                            "approx_value": "0",
+                            "title": "Fare beyond 255 Kms",
+                            "value": "Rs 19/Km"
+                        }
+                    ]
+                },
+                "inclusive_message": "inclusive of GST",
+                "similar_message": null,
+                "cab_driver_details": {
+                    "type": "REGULAR",
+                    "message": "Cab operator will be assigned on booking completion. Cab and driver details will be shared up to 30 mins prior to departure."
+                },
+                "my_safety": false,
+                "my_safety_tag": "Safe & Hygienic Cabs",
+                "included_km_string": "255 Kms",
+                "facilities": {
+                    "AC": "AC",
+                    "BAGS": "2 Bags",
+                    "SEATS": "4 Seater"
+                },
+                "detailed_ratings": null,
+                "cab_type": "Sedan",
+                "id": "SEDAN_4_10637.0",
+                "best_price_guarantee_details": null,
+                "fuel_type": "PETROL",
+                "luggage_info": null,
+                "fuel_info": null,
+                "my_safety_accessories": null,
+                "my_safety_accessories_details": null,
+                "is_mysafety_kit_available": false,
+                "is_mysafety_shield_available": false,
+                "is_best_price_guaranteed": false,
+                "trip_guarantee_available": false,
+                "package_data": null,
+                "other_cabs": null,
+                "package_title": null,
+                "persuasions": [
+                    {
+                        "text": "*₹19.0/km* after *255 kms*",
+                        "highlighted_text": null,
+                        "highlight_color": null,
+                        "tag": null,
+                        "title": "Extra km fare",
+                        "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/location_blue.png"
+                    },
+                    {
+                        "text": "*Petrol*",
+                        "highlighted_text": null,
+                        "highlight_color": null,
+                        "tag": null,
+                        "title": "Fuel Type",
+                        "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/fuel_blue.png"
+                    },
+                    {
+                        "text": " till 1 hour of departure",
+                        "highlighted_text": "*Free*",
+                        "highlight_color": "#1A7971",
+                        "tag": null,
+                        "title": "Cancellation",
+                        "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/cancelInfo.png"
+                    }
+                ],
+                "desktop_claim_persuasions": [],
+                "fare_update_tool_tip": null,
+                "model_description": "Specific Model",
+                "cab_description": "Spacious Car",
+                "cab_description_v2": null,
+                "is_other_cab": false,
+                "dynamic_persuasion": null,
+                "vehicle_image_tag": null,
+                "cab_partner": null,
+                "is_ryde_cab": false,
+                "brand_info": null,
+                "coupon_banner": null,
+                "zero_payment": false,
+                "cancellation_timeline": {
+                    "cancellationTimeLineInfoList": [
+                        {
+                            "penaltyPercent": 0.0,
+                            "maximumPenalty": null,
+                            "validFrom": 1736320340801,
+                            "validTill": 1736479800000,
+                            "penaltyText": "Zero penalty ",
+                            "timeText": "before 1 hours of departure",
+                            "rangeStart": "1"
+                        },
+                        {
+                            "penaltyPercent": 100.0,
+                            "maximumPenalty": null,
+                            "validFrom": 1736479800000,
+                            "validTill": 1736483400000,
+                            "penaltyText": "100% penalty ",
+                            "timeText": "within 1 hours of departure",
+                            "rangeStart": "0"
+                        },
+                        {
+                            "penaltyPercent": 100.0,
+                            "maximumPenalty": null,
+                            "validFrom": 1736483400000,
+                            "validTill": 1736483400000,
+                            "penaltyText": "100% penalty ",
+                            "timeText": "beyond departure time",
+                            "rangeStart": "inf"
+                        }
+                    ],
+                    "penaltyStartTimestamp": 1736479800000,
+                    "penaltyEndTimestamp": 1736483400000,
+                    "penaltyAfterFreeCancellation": 10637.0,
+                    "tncList": [
+                        "MMT service charges are non-refundable. however, if the cab details are not shared in time, free cancellation will be provided",
+                        "Fee is charged to compensate drivers for the time, effort and fuel spent while trying to reach the pickup location."
+                    ]
+                },
+                "free_cancellation_string_params": {
+                    "depart_date_time": 1736483400000,
+                    "free_cancellation_till_time_stamp": 1736479800000,
+                    "free_cancellation_time_in_hrs_and_minutes_string": "44 hours 18 mins ",
+                    "free_cancellation_time_in_hrs_and_minutes": 2658,
+                    "departure_time_in_ms": 1736483400000,
+                    "booking_creation_time_in_ms": 1736320340806,
+                    "penalty_hour_and_minute_string": "1 hr",
+                    "booking_and_departureTimeMidTimestamp": 1736401870403
+                },
+                "show_flight_input_section": false,
+                "my_biz_assured": false,
+                "my_biz_assured_image": null,
+                "my_biz_assured_description": null,
+                "travel_addons": null
+            },
+            {
+                "inCabsKey": "60f099c8e5df0b002b5d5d6e|5e204c32397eaa01babac8d1",
+                "category_id": "Ryde_SUV_INNOVACRYSTA_DIESEL_NONE_NONE_NONE",
+                "package": "NONE",
+                "safety_variant": "NONE",
+                "vehicle_model_type": "INNOVACRYSTA",
+                "type": "SUV",
+                "vendor_id": 4,
+                "supplier_id": "5e204c32397eaa01babac8d1",
+                "supplier_name": "Gozo",
+                "vendor_name": "Ryde",
+                "vehicle_image": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/Cab_Images/xylo.png",
+                "vehicle_model": "Innova Crysta",
+                "utilities": [
+                    "SUV",
+                    "6 SEATER",
+                    "3 BAGS"
+                ],
+                "cab_utilities": [
+                    {
+                        "icon": null,
+                        "text": "SUV",
+                        "on_icon_click_data": null
+                    },
+                    {
+                        "icon": null,
+                        "text": "AC",
+                        "on_icon_click_data": null
+                    },
+                    {
+                        "icon": null,
+                        "text": "6 Seats",
+                        "on_icon_click_data": null
+                    },
+                    {
+                        "icon": null,
+                        "text": "255 kms included",
+                        "on_icon_click_data": null
+                    }
+                ],
+                "rp_placeholder_info": null,
+                "fare_details": {
+                    "display_properties": [
+                        {
+                            "Base Fare": 11263
+                        },
+                        {
+                            "Service Fee": 118
+                        },
+                        {
+                            "Convenience Fee": 95
+                        },
+                        {
+                            "Total": 12407
+                        }
+                    ]
+                },
+                "fare_breakup_list": [
+                    {
+                        "displayName": "Base Fare",
+                        "value": 11263,
+                        "fareType": "PAYABLE",
+                        "displayCode": null
+                    },
+                    {
+                        "displayName": "Toll Charges",
+                        "value": 350,
+                        "fareType": "PAYABLE",
+                        "displayCode": null
+                    },
+                    {
+                        "displayName": "Service Fee",
+                        "value": 118,
+                        "fareType": "PAYABLE",
+                        "displayCode": null
+                    },
+                    {
+                        "displayName": "Taxes & Fees",
+                        "value": 676,
+                        "fareType": "PAYABLE",
+                        "displayCode": null
+                    },
+                    {
+                        "displayName": "Total",
+                        "value": 12407,
+                        "fareType": "TOTAL",
+                        "displayCode": null
+                    }
+                ],
+                "important_info": null,
+                "journey_detail": {
+                    "min_tat_hrs": null,
+                    "min_tat_hrs_v2": null,
+                    "approx_extra_fare": null,
+                    "approx_extra_kms": null,
+                    "overall_trip_distance_in_kms": 255.0,
+                    "overall_trip_duration_in_minutes": 282.0,
+                    "oneway_distance_in_kms": 255.0,
+                    "oneway_duration_in_minutes": 282.0
+                },
+                "cab_fare_detail": {
+                    "approxDistance": 255.0,
+                    "total_amount": 12407.0,
+                    "markup_amount": 118.0,
+                    "markup_percent": 0,
+                    "cash_to_driver": false,
+                    "per_km_charge": 26.5,
+                    "per_km_extra_charge": 26.5,
+                    "included_kms": 255.0,
+                    "is_full_payment_route": false,
+                    "payment_message": "Make part payment now",
+                    "full_payment_message": "Make full payment now",
+                    "partial_payable_amount": 6369,
+                    "cancellation_penalty": 12407,
+                    "full_payable_amount": 12407,
+                    "encrypted_booking_amount": "13344",
+                    "special_route_discount_percent": 50.95841455490578,
+                    "is_all_inclusive": true,
+                    "is_assured": false,
+                    "is_airport_prime": false,
+                    "is_out_of_corp_policy": false,
+                    "is_refundable": true,
+                    "is_special_package": false,
+                    "is_bnpl": false,
+                    "coupon_code": "",
+                    "coupon_amount": 0.0,
+                    "wallet_discount_enabled": true,
+                    "min_km_per_day": 255.0,
+                    "base_fare": 11613.0,
+                    "driver_charge": 0.0,
+                    "total_days_cahrged": 1.0,
+                    "is_instant_cab": false,
+                    "part_payment_rest_amount_message": "Pay rest to the driver",
+                    "strike_off_discount": 1846.0,
+                    "seller_discount": 0.0,
+                    "strike_off_discount_text": "13% off",
+                    "strike_off_discount_textV2": "14% off",
+                    "strike_price": 13109,
+                    "highlighted_price": 11263,
+                    "tolls_and_taxes_text": "+ ₹1144 (Taxes & Charges)",
+                    "bs_partial_payment_label": "Pay ₹6369, rest later",
+                    "bs_full_payment_label": "₹12407 Total",
+                    "bs_inclusive_label": "Total Payable Amount",
+                    "is_zero_payment_allowed": false
+                },
+                "ratings_display": {
+                    "rating_show": true,
+                    "overall_rating": 4.3,
+                    "cab_condition": 0.0,
+                    "driver_behavior": 0.0,
+                    "no_of_reviews": 0,
+                    "no_of_ratings": 97,
+                    "description": "Based on *97 aggregated ratings* of the supplier for this vehicle category"
+                },
+                "multi_vendor_tag": "RECOMMENDED",
+                "alternate_cabs_count": 0,
+                "display_properties": {
+                    "inclusion_list": [
+                        {
+                            "sub_title": "",
+                            "title": "State Tax",
+                            "description": ""
+                        },
+                        {
+                            "sub_title": "",
+                            "title": "Toll Charges",
+                            "description": ""
+                        },
+                        {
+                            "sub_title": "",
+                            "title": "255 Kms",
+                            "description": ""
+                        },
+                        {
+                            "sub_title": "",
+                            "title": "Driver Allowance",
+                            "description": ""
+                        },
+                        {
+                            "sub_title": "",
+                            "title": "Only One Pickup and Drop",
+                            "description": "Only one included"
+                        }
+                    ],
+                    "exclusion_list": [
+                        {
+                            "Waiting Charges": "After 45 mins, Rs 100.0/30 mins"
+                        },
+                        {
+                            "Fare beyond 255 Kms": "Rs 26.5/Km"
+                        }
+                    ],
+                    "exclusion_list_v2": [
+                        {
+                            "sub_title": "",
+                            "approx_value": "0",
+                            "title": "Fare beyond 255 Kms",
+                            "value": "Rs 26.5/Km"
+                        },
+                        {
+                            "sub_title": "After 45 mins, ",
+                            "approx_value": "0",
+                            "title": "Waiting Charges",
+                            "value": "Rs 100.0/30 mins"
+                        }
+                    ]
+                },
+                "inclusive_message": "inc. of tolls and taxes",
+                "similar_message": null,
+                "cab_driver_details": {
+                    "type": "REGULAR",
+                    "message": "Cab operator will be assigned on booking completion. Cab and driver details will be shared up to 30 mins prior to departure."
+                },
+                "my_safety": false,
+                "my_safety_tag": "Safe & Hygienic Cabs",
+                "included_km_string": "255 Kms",
+                "facilities": {
+                    "AC": "AC",
+                    "BAGS": "3 Bags",
+                    "SEATS": "6 Seater"
+                },
+                "detailed_ratings": {
+                    "Driver Behaviour": "0.0",
+                    "Cab Condition": "0.0"
+                },
+                "cab_type": "Suv",
+                "id": "SUV_4_12407.0",
+                "best_price_guarantee_details": null,
+                "fuel_type": "DIESEL",
+                "luggage_info": null,
+                "fuel_info": null,
+                "my_safety_accessories": null,
+                "my_safety_accessories_details": null,
+                "is_mysafety_kit_available": false,
+                "is_mysafety_shield_available": false,
+                "is_best_price_guaranteed": false,
+                "trip_guarantee_available": false,
+                "package_data": null,
+                "other_cabs": null,
+                "package_title": null,
+                "persuasions": [
+                    {
+                        "text": "*₹26.5/km* after *255 kms*",
+                        "highlighted_text": null,
+                        "highlight_color": null,
+                        "tag": null,
+                        "title": "Extra km fare",
+                        "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/location_blue.png"
+                    },
+                    {
+                        "text": "*Diesel*",
+                        "highlighted_text": null,
+                        "highlight_color": null,
+                        "tag": null,
+                        "title": "Fuel Type",
+                        "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/fuel_blue.png"
+                    },
+                    {
+                        "text": " till 1 hour of departure",
+                        "highlighted_text": "*Free*",
+                        "highlight_color": "#1A7971",
+                        "tag": null,
+                        "title": "Cancellation",
+                        "icon_url": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/cancelInfo.png"
+                    }
+                ],
+                "desktop_claim_persuasions": [],
+                "fare_update_tool_tip": null,
+                "model_description": "Specific Model",
+                "cab_description": "Large Car",
+                "cab_description_v2": null,
+                "is_other_cab": false,
+                "dynamic_persuasion": null,
+                "vehicle_image_tag": null,
+                "cab_partner": null,
+                "is_ryde_cab": false,
+                "brand_info": null,
+                "coupon_banner": null,
+                "zero_payment": false,
+                "cancellation_timeline": {
+                    "cancellationTimeLineInfoList": [
+                        {
+                            "penaltyPercent": 0.0,
+                            "maximumPenalty": null,
+                            "validFrom": 1736320340801,
+                            "validTill": 1736479800000,
+                            "penaltyText": "Zero penalty ",
+                            "timeText": "before 1 hours of departure",
+                            "rangeStart": "1"
+                        },
+                        {
+                            "penaltyPercent": 100.0,
+                            "maximumPenalty": null,
+                            "validFrom": 1736479800000,
+                            "validTill": 1736483400000,
+                            "penaltyText": "100% penalty ",
+                            "timeText": "within 1 hours of departure",
+                            "rangeStart": "0"
+                        },
+                        {
+                            "penaltyPercent": 100.0,
+                            "maximumPenalty": null,
+                            "validFrom": 1736483400000,
+                            "validTill": 1736483400000,
+                            "penaltyText": "100% penalty ",
+                            "timeText": "beyond departure time",
+                            "rangeStart": "inf"
+                        }
+                    ],
+                    "penaltyStartTimestamp": 1736479800000,
+                    "penaltyEndTimestamp": 1736483400000,
+                    "penaltyAfterFreeCancellation": 12407.0,
+                    "tncList": [
+                        "MMT service charges are non-refundable. however, if the cab details are not shared in time, free cancellation will be provided",
+                        "Fee is charged to compensate drivers for the time, effort and fuel spent while trying to reach the pickup location."
+                    ]
+                },
+                "free_cancellation_string_params": {
+                    "depart_date_time": 1736483400000,
+                    "free_cancellation_till_time_stamp": 1736479800000,
+                    "free_cancellation_time_in_hrs_and_minutes_string": "44 hours 18 mins ",
+                    "free_cancellation_time_in_hrs_and_minutes": 2658,
+                    "departure_time_in_ms": 1736483400000,
+                    "booking_creation_time_in_ms": 1736320340806,
+                    "penalty_hour_and_minute_string": "1 hr",
+                    "booking_and_departureTimeMidTimestamp": 1736401870403
+                },
+                "show_flight_input_section": false,
+                "my_biz_assured": false,
+                "my_biz_assured_image": null,
+                "my_biz_assured_description": null,
+                "travel_addons": [
+                    {
+                        "id": "CARRIER",
+                        "price": 158.0,
+                        "subText": null,
+                        "description": "Car with roof carrier for adjusting extra luggage",
+                        "name": "Roof Carrier",
+                        "icon": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/icons/star_ic.png",
+                        "order": 0,
+                        "selected": false,
+                        "listing_text": "*Roof carrier* available with this car starting @ INR 158",
+                        "show_in_listing": true,
+                        "min_payment": 79.0,
+                        "options": null
+                    }
+                ]
+            }
+        ],
+        "transaction_key": "STV_AMD_10-01-2025_1736320340782",
+        "cancellation_details": {
+            "cancellation_policy": [
+                "For cancellation, no penalty till 1 hour before departure & 100% penalty beyond that.",
+                "For cancellation, please visit the MyTrips Section on the app/website or use the link shared with you in booking confirmation SMS. In case of any issue regarding cancellation, please call our support team at 0124 4628747, 0124 5045105",
+                "MakeMyTrip(MMT) will not be held responsible for any cancellation or delay of service in case of any natural calamity, agitation or strike, traffic jam or road blockage, etc.",
+                "In the event of cancellation of a cab trip, MMT's liability will be limited only to the extent of refunding the sum paid by the passenger for the price of the e-ticket"
+            ],
+            "free_cancellation_message": "Free Cancellation before 10 Jan 2025, 09:00 AM IST",
+            "cancellation_timeline": {
+                "penaltyStartTimestamp": 1736479800000,
+                "penaltyEndTimestamp": 1736483400000,
+                "penalty": 3497.0,
+                "penaltyHourAndMinuteString": "1 hr",
+                "penaltyStartDate": "10-01-2025",
+                "penaltyStartTime": "09:00 AM",
+                "showDesktopTimeLine": true
+            },
+            "free_cancellation_message_new": {
+                "type": "INFO",
+                "content": "Free Cancellation before 10 Jan 2025, 09:00 AM IST"
+            },
+            "freeCancellationApplicable": true
+        },
+        "cancellation_message": "FREE CANCELLATION BEFORE 10 JAN 2025, 09:00 AM IST",
+        "e_pass_required": false,
+        "distance_string": "255 kms",
+        "duration_string": "4 hr 42 mins",
+        "trip_benefits": [
+            {
+                "icon": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/Trip_Benefits/Outstation_Cabs/route.png",
+                "subTitle": "Special one-way fares to just get dropped off to your destination",
+                "title": "One Way fares"
+            },
+            {
+                "icon": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/Trip_Benefits/Airport_Cabs/highly_rated_drivers.png",
+                "subTitle": "Experienced and polite drivers with well-serviced, comfortable cabs",
+                "title": "Highly-rated drivers"
+            },
+            {
+                "icon": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/Trip_Benefits/Airport_Cabs/all_price_incl.png",
+                "subTitle": "Prices inclusive of GST, state taxes and tolls on majority of the routes",
+                "title": "All inclusive pricing"
+            }
+        ],
+        "persuasion_data": [],
+        "sorting_order": "PRICE_ASCENDING",
+        "brand_info": {
+            "persuasions": {
+                "MMT_ASSURED": {
+                    "label": "MMT assured",
+                    "description": {
+                        "text": "*if your cab doesn’t arrive/is delayed*",
+                        "icon": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/GreyInfo.png",
+                        "highlighted_text": "*Get 2X refund*",
+                        "highlighted_color": "#1A7971"
+                    },
+                    "label_bg_color": [
+                        "#FF7F3F",
+                        "#FF3E5E"
+                    ],
+                    "detailed_description": {
+                        "header": {
+                            "icon": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/BluSmartFinal.png",
+                            "title": {
+                                "text": "Electric & Sustainable Cars",
+                                "color": "#00A900",
+                                "icon": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/greenLeaf.png"
+                            },
+                            "label": "MMT assured",
+                            "bg_color": "#EAF5FF",
+                            "label_bg_color": [
+                                "#FF7F3F",
+                                "#FF3E5E"
+                            ]
+                        },
+                        "body": {
+                            "guaranteeType": "MMTAssuredGuaranteeDetail",
+                            "header": {
+                                "text": "*if your cab doesn’t arrive/is delayed*",
+                                "highlighted_text": "*Get 2X refund*",
+                                "highlighted_color": "#1A7971",
+                                "line_gradient": [
+                                    "#43E1A8",
+                                    "#219393"
+                                ]
+                            },
+                            "description": "Complete refund of the amount paid in your *original paymode* and the remaining as *MakeMyTrip Vouchers* (Applicable on next cab booking).",
+                            "claim_process_label": "*Here’s how it works:*",
+                            "claim_process_steps": [
+                                {
+                                    "key": "*Cab doesn’t arrive:*",
+                                    "value": "We detect a cab’s no-show and initiate a *2X refund* of your *trip amount*"
+                                },
+                                {
+                                    "key": "*Delay:*",
+                                    "value": "For delays *exceeding 15mins* from your pickup time, we initiate *2X refund* upon trip completion and *payment settlement.*"
+                                }
+                            ],
+                            "description_label": "What is *2X refund?*",
+                            "know_more_info": {
+                                "text": null,
+                                "hyperlink": "https://www.makemytrip.com/promos/blusmart.html",
+                                "hyperlink_text": "T&C"
+                            },
+                            "acknowledgement_text": "OKAY"
+                        }
+                    }
+                }
+            },
+            "brands": {
+                "BLU_SMART": {
+                    "icon": "https://jsak.mmtcdn.com/cabs_cdn_dt/image/BlusmartDT.png",
+                    "bg_color": "#EAF5FF"
+                }
+            }
+        },
+        "show_b2c_gst_component": true,
+        "time_offset": 19800,
+        "international_trip": false,
+        "timezone_id": "Asia/Kolkata",
+        "show_flight_input_section": false,
+        "assisted_flow_info_dt": {
+            "show_inbound_call": true,
+            "inbound_number": "0124 - 4781861",
+            "form_open_delay": 60000,
+            "source_city": "Surat",
+            "dest_city": "Ahmedabad"
+        },
+        "show_trip_assistant": false,
+        "show_listing_leave_intent": true,
+        "show_review_leave_intent": true
+    },
+    "is_exclusive_route": false,
+    "oneway_distance_in_kms": 255.0,
+    "oneway_duration_in_minutes": 282.0,
+    "overall_trip_distance_in_kms": 255.0,
+    "overall_trip_duration_in_minutes": 282.0,
+    "status": "SUCCESS",
+    "source_state": "Gujarat",
+    "trip_distance_and_duration": "Distance for selected route is 255kms | Approx 5 hr(s)",
+    "rap_nonrap_availability": "Non RAP only",
+    "bnpl_limit": 7877,
+    "time_offset": 19800,
+    "international_trip": false,
+    "timezone_id": "Asia/Kolkata",
+    "search_id": "677e25534af4100068b97e43",
+    "cache_key": "INTERCITY_SEARCH_10-01-2025_10:00_212050439_728406794_230264164_726011484_V3"
+}
